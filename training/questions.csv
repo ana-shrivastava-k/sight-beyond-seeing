@@ -1,0 +1,1081 @@
+filename,instruction,input,output
+IMG_4719.jpeg,Rephrase the question,How many shelves are there in the cabinet?,"Do you see any shelves in the cabinet? If yes, then how many shelves are there?"
+IMG_4719.jpeg,Rephrase the question,What is the color of the cabinet?,What color is the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is on the top shelf?,What is on the top shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is on the second shelf from the top?,What is on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is on the third shelf from the top?,What is on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is on the bottom shelf?,What is on the bottom shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many plates are there on the top shelf?,How many plates are on the top shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many bowls are there on the top shelf?,How many bowls are on the top shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many glasses are there on the top shelf?,How many glasses are on the top shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many pitchers are there on the top shelf?,How many pitchers are on the top shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the plates on the second shelf from the top?,What color are the plates on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the design of the plates on the second shelf from the top?,What design are the plates on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many cups are there on the second shelf from the top?,How many cups are on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the cups on the second shelf from the top?,What color are the cups on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the design of the cups on the second shelf from the top?,What design are the cups on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the material of the cups on the second shelf from the top?,What material are the cups on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many saucers are there on the second shelf from the top?,How many saucers are on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the saucers on the second shelf from the top?,What color are the saucers on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the design of the saucers on the second shelf from the top?,What design are the saucers on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the material of the saucers on the second shelf from the top?,What material are the saucers on the second shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many glasses are there on the third shelf from the top?,How many glasses are on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the glasses on the third shelf from the top?,What color are the glasses on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the design of the glasses on the third shelf from the top?,What design are the glasses on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the material of the glasses on the third shelf from the top?,What material are the glasses on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many bowls are there on the third shelf from the top?,How many bowls are on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the bowls on the third shelf from the top?,What color are the bowls on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the design of the bowls on the third shelf from the top?,What design are the bowls on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the material of the bowls on the third shelf from the top?,What material are the bowls on the third shelf from the top of the cabinet?
+IMG_4719.jpeg,Rephrase the question,How many plates are there on the bottom shelf?,How many plates are on the bottom shelf of the cabinet?
+IMG_4719.jpeg,Rephrase the question,What is the color of the plates on the bottom shelf?,What color are the plates on the bottom shelf of the cabinet?
+IMG_4723.jpeg,Rephrase the question,"1.	What type of appliance is this?",What type of appliance is this?
+IMG_4723.jpeg,Rephrase the question,What brand is it?,"Do you see any branding on the appliance? If yes, what brand is it?"
+IMG_4723.jpeg,Rephrase the question,What is the color of the appliance?,What is the primary color of the appliance?
+IMG_4723.jpeg,Rephrase the question,What type of cooktop is this?,"What type of cooktop is this? (e.g., gas, electric, induction)"
+IMG_4723.jpeg,Rephrase the question,How many burners does the cooktop have?,Do you see any burners in the image? If yes then how many burners are there?
+IMG_4723.jpeg,Rephrase the question,What type of knobs does the cooktop have?,"What type of knobs does the cooktop have? (e.g., round, square, rectangular)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the cooktop?,"What is the approximate size of the cooktop? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the cooktop?,"What is the shape of the cooktop? (e.g., square, rectangular, round)"
+IMG_4723.jpeg,Rephrase the question,What is the material of the cooktop?,"What is the material of the cooktop? (e.g., stainless steel, glass, ceramic)"
+IMG_4723.jpeg,Rephrase the question,What is the color of the knobs?,What is the color of the knobs?
+IMG_4723.jpeg,Rephrase the question,What is the color of the grates?,What is the color of the grates?
+IMG_4723.jpeg,Rephrase the question,What is the material of the grates?,"What is the material of the grates? (e.g., cast iron, stainless steel)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the grates?,"What is the approximate size of the grates? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the grates?,"What is the shape of the grates? (e.g., square, rectangular, round)"
+IMG_4723.jpeg,Rephrase the question,What is the material of the knobs?,"What is the material of the knobs? (e.g., plastic, metal)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the knobs?,"What is the approximate size of the knobs? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the knobs?,"What is the shape of the knobs? (e.g., round, square, rectangular)"
+IMG_4723.jpeg,Rephrase the question,What is the color of the knobs?,What is the color of the knobs?
+IMG_4723.jpeg,Rephrase the question,What is the material of the knobs?,"What is the material of the knobs? (e.g., plastic, metal)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the knobs?,"What is the approximate size of the knobs? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the knobs?,"What is the shape of the knobs? (e.g., round, square, rectangular)"
+IMG_4723.jpeg,Rephrase the question,What is the color of the knobs?,What is the color of the knobs?
+IMG_4723.jpeg,Rephrase the question,What is the material of the knobs?,"What is the material of the knobs? (e.g., plastic, metal)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the knobs?,"What is the approximate size of the knobs? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the knobs?,"What is the shape of the knobs? (e.g., round, square, rectangular)"
+IMG_4723.jpeg,Rephrase the question,What is the color of the knobs?,What is the color of the knobs?
+IMG_4723.jpeg,Rephrase the question,What is the material of the knobs?,"What is the material of the knobs? (e.g., plastic, metal)"
+IMG_4723.jpeg,Rephrase the question,What is the size of the knobs?,"What is the approximate size of the knobs? (e.g., small, medium, large)"
+IMG_4723.jpeg,Rephrase the question,What is the shape of the knobs?,"What is the shape of the knobs? (e.g., round, square, rectangular)"
+IMG_4723.jpeg,Rephrase the question,What is the color of the knobs?,What is the color of the knobs?
+IMG_4703.jpeg,Rephrase the question,What is the name of the store?,"Do you see any store name in the image? If yes, what is the name of the store?"
+IMG_4703.jpeg,Rephrase the question,What is the date?,"Do you see any date in the image? If yes, what is the date?"
+IMG_4703.jpeg,Rephrase the question,What is the time?,"Do you see any time in the image? If yes, what is the time?"
+IMG_4703.jpeg,Rephrase the question,What is the temperature outside?,"Do you see any temperature reading in the image? If yes, what is the temperature outside?"
+IMG_4703.jpeg,Rephrase the question,What is the weather like?,"Do you see any weather conditions in the image? If yes, what is the weather like?"
+IMG_4703.jpeg,Rephrase the question,What is the name of the cashier?,"Do you see any cashier in the image? If yes, what is the name of the cashier?"
+IMG_4703.jpeg,Rephrase the question,What is the cashier wearing?,"Do you see any cashier in the image? If yes, what is the cashier wearing?"
+IMG_4703.jpeg,Rephrase the question,What is the customer wearing?,"Do you see any customer in the image? If yes, what is the customer wearing?"
+IMG_4703.jpeg,Rephrase the question,What is the customer holding?,"Do you see any customer in the image? If yes, what is the customer holding?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's order?,"Do you see any customer in the image? If yes, what is the customer's order?"
+IMG_4703.jpeg,Rephrase the question,What is the price of the customer's order?,"Do you see any customer in the image? If yes, what is the price of the customer's order?"
+IMG_4703.jpeg,Rephrase the question,What is the total cost of the customer's order?,"Do you see any customer in the image? If yes, what is the total cost of the customer's order?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's name?,"Do you see any customer in the image? If yes, what is the customer's name?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's phone number?,"Do you see any customer in the image? If yes, what is the customer's phone number?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's email address?,"Do you see any customer in the image? If yes, what is the customer's email address?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's address?,"Do you see any customer in the image? If yes, what is the customer's address?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's credit card number?,"Do you see any customer in the image? If yes, what is the customer's credit card number?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's expiration date?,"Do you see any customer in the image? If yes, what is the customer's expiration date?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's CVV code?,"Do you see any customer in the image? If yes, what is the customer's CVV code?"
+IMG_4703.jpeg,Rephrase the question,What is the customer's signature?,"Do you see any customer in the image? If yes, what is the customer's signature?"
+IMG_4703.jpeg,Rephrase the question,What is the name of the bakery?,"Do you see any bakery name in the image? If yes, what is the name of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What is the address of the bakery?,"Do you see any bakery address in the image? If yes, what is the address of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What is the phone number of the bakery?,"Do you see any bakery phone number in the image? If yes, what is the phone number of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What are the hours of operation of the bakery?,"Do you see any bakery hours of operation in the image? If yes, what are the hours of operation of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What is the website of the bakery?,"Do you see any bakery website in the image? If yes, what is the website of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What is the menu of the bakery?,"Do you see any bakery menu in the image? If yes, what is the menu of the bakery?"
+IMG_4703.jpeg,Rephrase the question,What are the prices of the bakery items?,"Do you see any bakery item prices in the image? If yes, what are the prices of the bakery items?"
+IMG_4703.jpeg,Rephrase the question,What are the ingredients of the bakery items?,"Do you see any bakery item ingredients in the image? If yes, what are the ingredients of the bakery items?"
+IMG_4703.jpeg,Rephrase the question,What are the nutritional values of the bakery items?,"Do you see any bakery item nutritional values in the image? If yes, what are the nutritional values of the bakery items?"
+IMG_4703.jpeg,Rephrase the question,What are the reviews of the bakery?,"Do you see any bakery reviews in the image? If yes, what are the reviews of the bakery?"
+IMG_4715.jpeg,Rephrase the question,What is the name of the restaurant on the right?,Can you identify the name of the restaurant on the right side of the image?
+IMG_4715.jpeg,Rephrase the question,What is the name of the restaurant in the middle?,What is the name of the restaurant located in the center of the image?
+IMG_4715.jpeg,Rephrase the question,What is the name of the restaurant on the left?,"Do you see a restaurant on the left side of the image? If yes, what is its name?"
+IMG_4715.jpeg,Rephrase the question,What is the name of the shopping center?,"Is there a shopping center in the image? If yes, what is its name?"
+IMG_4715.jpeg,Rephrase the question,What are the hours of operation for the shopping center?,Are the hours of operation for the shopping center visible in the image?
+IMG_4715.jpeg,Rephrase the question,What is the name of the street that the shopping center is located on?,Can you determine the street name where the shopping center is located?
+IMG_4715.jpeg,Rephrase the question,What is the cross street of the shopping center?,Is there a cross street visible in the image that intersects with the shopping center's street?
+IMG_4715.jpeg,Rephrase the question,What is the zip code of the shopping center?,Is the zip code of the shopping center displayed in the image?
+IMG_4715.jpeg,Rephrase the question,What is the square footage of the shopping center?,Can you estimate the square footage of the shopping center based on the image?
+IMG_4715.jpeg,Rephrase the question,How many tenants are there in the shopping center?,Are there any visible signs indicating the number of tenants in the shopping center?
+IMG_4715.jpeg,Rephrase the question,What is the name of the anchor store in the shopping center?,"Is there an anchor store in the shopping center? If yes, what is its name?"
+IMG_4715.jpeg,Rephrase the question,What are the other stores in the shopping center?,Can you identify any other stores in the shopping center from the image?
+IMG_4715.jpeg,Rephrase the question,Is there a food court in the shopping center?,Is there a food court in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what are the names of the restaurants in the food court?","If there is a food court, can you identify the names of any restaurants within it?"
+IMG_4715.jpeg,Rephrase the question,Is there a movie theater in the shopping center?,Is there a movie theater in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the movie theater?","If there is a movie theater, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a gym in the shopping center?,Is there a gym in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the gym?","If there is a gym, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a grocery store in the shopping center?,Is there a grocery store in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the grocery store?","If there is a grocery store, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a pharmacy in the shopping center?,Is there a pharmacy in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the pharmacy?","If there is a pharmacy, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a bank in the shopping center?,Is there a bank in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the bank?","If there is a bank, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a post office in the shopping center?,Is there a post office in the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what are the hours of operation for the post office?","If there is a post office, are its hours of operation visible in the image?"
+IMG_4715.jpeg,Rephrase the question,Is there a public transportation stop near the shopping center?,Is there a public transportation stop near the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, what is the name of the public transportation stop?","If there is a public transportation stop, what is its name?"
+IMG_4715.jpeg,Rephrase the question,Is there a parking lot at the shopping center?,Is there a parking lot at the shopping center?
+IMG_4715.jpeg,Rephrase the question,"If so, how many parking spaces are there?","If there is a parking lot, can you estimate the number of parking spaces available?"
+IMG_4693.jpeg,Rephrase the question,How many different types of peppers are there?,"Do you see any different types of peppers in the image? If yes, how many different types are there?"
+IMG_4693.jpeg,Rephrase the question,What are the different colors of the peppers?,What are the different colors of the peppers in the image?
+IMG_4693.jpeg,Rephrase the question,What is the price of the green peppers?,"Is the price of the green peppers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the yellow peppers?,"Is the price of the yellow peppers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the red peppers?,"Is the price of the red peppers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the orange peppers?,"Is the price of the orange peppers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the mini sweet peppers?,"Is the price of the mini sweet peppers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the brussel sprouts?,"Is the price of the brussel sprouts visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the carrots?,"Is the price of the carrots visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the potatoes?,"Is the price of the potatoes visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the broccoli?,"Is the price of the broccoli visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the cauliflower?,"Is the price of the cauliflower visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the celery?,"Is the price of the celery visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the lettuce?,"Is the price of the lettuce visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the tomatoes?,"Is the price of the tomatoes visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the cucumbers?,"Is the price of the cucumbers visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the onions?,"Is the price of the onions visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the garlic?,"Is the price of the garlic visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the ginger?,"Is the price of the ginger visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the turmeric?,"Is the price of the turmeric visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the cumin?,"Is the price of the cumin visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the coriander?,"Is the price of the coriander visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the paprika?,"Is the price of the paprika visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the chili powder?,"Is the price of the chili powder visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the cinnamon?,"Is the price of the cinnamon visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the nutmeg?,"Is the price of the nutmeg visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the cloves?,"Is the price of the cloves visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the vanilla extract?,"Is the price of the vanilla extract visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the almond extract?,"Is the price of the almond extract visible in the image? If yes, what is the price?"
+IMG_4693.jpeg,Rephrase the question,What is the price of the lemon extract?,"Is the price of the lemon extract visible in the image? If yes, what is the price?"
+IMG_4692.jpeg,Rephrase the question,What is the name of the store?,Do you see a sign with the name of the store in the image?
+IMG_4692.jpeg,Rephrase the question,What is the color of the building?,What color is the exterior of the building in the image?
+IMG_4692.jpeg,Rephrase the question,What is the color of the roof?,What color is the roof of the building in the image?
+IMG_4692.jpeg,Rephrase the question,How many cars are in the parking lot?,How many vehicles are parked in the parking lot in the image?
+IMG_4692.jpeg,Rephrase the question,What kind of cars are in the parking lot?,What types of vehicles are parked in the parking lot in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a handicapped parking spot?,Is there a designated parking space for individuals with disabilities in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a sign for the pharmacy?,Is there a sign indicating the location of the pharmacy in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a sign for the grocery pick-up?,Is there a sign indicating the location of the grocery pick-up area in the image?
+IMG_4692.jpeg,Rephrase the question,What is the weather like?,What are the weather conditions depicted in the image?
+IMG_4692.jpeg,Rephrase the question,Is the sun shining?,Is the sun visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is it daytime or nighttime?,Is it daytime or nighttime in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a crosswalk?,Is there a crosswalk marked in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a sidewalk?,Is there a sidewalk visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a curb?,Is there a curb visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a gutter?,Is there a gutter visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a street light?,Is there a street light visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a tree?,Is there a tree visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a bush?,Is there a bush visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a flower?,Is there a flower visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a bird?,Is there a bird visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a cloud?,Is there a cloud visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a mountain?,Is there a mountain visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a hill?,Is there a hill visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a valley?,Is there a valley visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a river?,Is there a river visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a lake?,Is there a lake visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a pond?,Is there a pond visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a waterfall?,Is there a waterfall visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a rainbow?,Is there a rainbow visible in the image?
+IMG_4692.jpeg,Rephrase the question,Is there a desert?,Is there a desert visible in the image?
+IMG_4714.jpeg,Rephrase the question,What kind of tree is on the left side of the image?,"Is there a tree on the left side of the image? If yes, what kind of tree is it?"
+IMG_4714.jpeg,Rephrase the question,What is the name of the restaurant on the left?,"Is there a restaurant on the left side of the image? If yes, what is the name of the restaurant?"
+IMG_4714.jpeg,Rephrase the question,What is the name of the restaurant in the middle?,"Is there a restaurant in the middle of the image? If yes, what is the name of the restaurant?"
+IMG_4714.jpeg,Rephrase the question,What is the name of the restaurant on the right?,"Is there a restaurant on the right side of the image? If yes, what is the name of the restaurant?"
+IMG_4714.jpeg,Rephrase the question,What is the color of the car parked in front of the middle restaurant?,"Is there a car parked in front of the middle restaurant? If yes, what is the color of the car?"
+IMG_4714.jpeg,Rephrase the question,What is the make and model of the car parked in front of the middle restaurant?,"Is there a car parked in front of the middle restaurant? If yes, what is the make and model of the car?"
+IMG_4714.jpeg,Rephrase the question,What is the license plate number of the car parked in front of the middle restaurant?,"Is there a car parked in front of the middle restaurant? If yes, what is the license plate number of the car?"
+IMG_4714.jpeg,Rephrase the question,What is the color of the Jeep parked on the right side of the image?,"Is there a Jeep parked on the right side of the image? If yes, what is the color of the Jeep?"
+IMG_4714.jpeg,Rephrase the question,What is the make and model of the Jeep parked on the right side of the image?,"Is there a Jeep parked on the right side of the image? If yes, what is the make and model of the Jeep?"
+IMG_4714.jpeg,Rephrase the question,What is the license plate number of the Jeep parked on the right side of the image?,"Is there a Jeep parked on the right side of the image? If yes, what is the license plate number of the Jeep?"
+IMG_4714.jpeg,Rephrase the question,What is the name of the shopping center?,"Is there a shopping center in the image? If yes, what is the name of the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the address of the shopping center?,"Is there a shopping center in the image? If yes, what is the address of the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What are the hours of operation of the shopping center?,"Is there a shopping center in the image? If yes, what are the hours of operation of the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the name of the street that the shopping center is located on?,"Is there a shopping center in the image? If yes, what is the name of the street that the shopping center is located on?"
+IMG_4714.jpeg,Rephrase the question,What is the cross street of the shopping center?,"Is there a shopping center in the image? If yes, what is the cross street of the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest public transportation stop to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest public transportation stop to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest grocery store to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest grocery store to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest gas station to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest gas station to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest bank to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest bank to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest post office to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest post office to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest hospital to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest hospital to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest school to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest school to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest park to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest park to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest playground to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest playground to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest swimming pool to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest swimming pool to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest movie theater to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest movie theater to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest museum to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest museum to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest art gallery to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest art gallery to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest theater to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest theater to the shopping center?"
+IMG_4714.jpeg,Rephrase the question,What is the nearest concert hall to the shopping center?,"Is there a shopping center in the image? If yes, what is the nearest concert hall to the shopping center?"
+IMG_4702.jpeg,Rephrase the question,What is the name of the store?,Can you identify the name of the store in the image?
+IMG_4702.jpeg,Rephrase the question,What type of food is served at the store?,"What type of food is being served at the store, based on the image?"
+IMG_4702.jpeg,Rephrase the question,What are the hours of operation?,Are the store's hours of operation visible in the image?
+IMG_4702.jpeg,Rephrase the question,What are the prices of the items on the menu?,Are the prices of any items on the menu displayed in the image?
+IMG_4702.jpeg,Rephrase the question,What are the ingredients of the items on the menu?,Can you identify any ingredients of the items on the menu from the image?
+IMG_4702.jpeg,Rephrase the question,Are there any specials or promotions being offered?,Are there any specials or promotions being advertised in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a loyalty program or rewards system?,Is there any information about a loyalty program or rewards system visible in the image?
+IMG_4702.jpeg,Rephrase the question,What are the payment methods accepted?,Are the payment methods accepted by the store indicated in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a delivery option available?,"Is there a delivery option available, as shown in the image?"
+IMG_4702.jpeg,Rephrase the question,Is there a catering option available?,"Is there a catering option available, as shown in the image?"
+IMG_4702.jpeg,Rephrase the question,Is there a seating area available?,Is there a seating area visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a restroom available?,Is there a restroom visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a parking lot available?,Is there a parking lot visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is the store accessible to people with disabilities?,Are there any accessibility features for people with disabilities visible in the image?
+IMG_4702.jpeg,Rephrase the question,What is the dress code for the store?,Is there any information about the dress code for the store visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a smoking area available?,Is there a designated smoking area visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a pet-friendly area available?,Is there a pet-friendly area visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a children's play area available?,Is there a children's play area visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a Wi-Fi connection available?,"Is there a Wi-Fi connection available, as indicated in the image?"
+IMG_4702.jpeg,Rephrase the question,Is there a TV available?,Is there a TV visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a music player available?,Is there a music player visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a book exchange available?,Is there a book exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a magazine exchange available?,Is there a magazine exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a newspaper exchange available?,Is there a newspaper exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a toy exchange available?,Is there a toy exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a game exchange available?,Is there a game exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a movie exchange available?,Is there a movie exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a music exchange available?,Is there a music exchange visible in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a book club available?,Is there a book club mentioned in the image?
+IMG_4702.jpeg,Rephrase the question,Is there a movie club available?,Is there a movie club mentioned in the image?
+IMG_4718.jpeg,Rephrase the question,What is the shape of the dining table?,Can you identify the shape of the dining table in the image?
+IMG_4718.jpeg,Rephrase the question,How many chairs are there?,How many chairs are visible in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the chairs?,What color are the chairs in the image?
+IMG_4718.jpeg,Rephrase the question,What is the material of the table?,What material is the table made of in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the table?,What color is the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is the shape of the light fixture?,Can you describe the shape of the light fixture in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the light fixture?,What color is the light fixture in the image?
+IMG_4718.jpeg,Rephrase the question,How many bulbs are there in the light fixture?,How many bulbs are present in the light fixture in the image?
+IMG_4718.jpeg,Rephrase the question,What is the shape of the window?,What shape is the window in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the curtains?,What color are the curtains in the image?
+IMG_4718.jpeg,Rephrase the question,What is on the wall behind the table?,What is hanging on the wall behind the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is on the wall to the left of the table?,What is hanging on the wall to the left of the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is on the wall to the right of the table?,What is hanging on the wall to the right of the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the walls?,What color are the walls in the image?
+IMG_4718.jpeg,Rephrase the question,What is the type of flooring?,What type of flooring is present in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the flooring?,What color is the flooring in the image?
+IMG_4718.jpeg,Rephrase the question,Is there a rug on the floor?,Is there a rug on the floor in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the rug?,What color is the rug in the image?
+IMG_4718.jpeg,Rephrase the question,What is the shape of the rug?,What shape is the rug in the image?
+IMG_4718.jpeg,Rephrase the question,What is the size of the rug?,What is the size of the rug in the image?
+IMG_4718.jpeg,Rephrase the question,Is there anything on the table?,Are there any objects on the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is on the table?,What objects are on the table in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the table runner?,What color is the table runner in the image?
+IMG_4718.jpeg,Rephrase the question,What is the shape of the table runner?,What shape is the table runner in the image?
+IMG_4718.jpeg,Rephrase the question,What is the size of the table runner?,What is the size of the table runner in the image?
+IMG_4718.jpeg,Rephrase the question,Are there any plants in the room?,Are there any plants in the room in the image?
+IMG_4718.jpeg,Rephrase the question,What kind of plants are in the room?,What type of plants are in the room in the image?
+IMG_4718.jpeg,Rephrase the question,Where are the plants located in the room?,Where are the plants located in the room in the image?
+IMG_4718.jpeg,Rephrase the question,What is the color of the plant pot?,What color are the plant pots in the image?
+IMG_4718.jpeg,Rephrase the question,What is the size of the plant pot?,What size are the plant pots in the image?
+IMG_4705.jpeg,Rephrase the question,What is the name of the store on the left?,Can you identify the name of the store on the left in the image?
+IMG_4705.jpeg,Rephrase the question,What is the name of the store on the right?,Can you identify the name of the store on the right in the image?
+IMG_4705.jpeg,Rephrase the question,What is the name of the store in the distance?,Can you identify the name of the store in the distance in the image?
+IMG_4705.jpeg,Rephrase the question,What is the name of the dinosaur in the foreground?,Can you identify the dinosaur in the foreground of the image?
+IMG_4705.jpeg,Rephrase the question,What is the color of the dinosaur?,What color is the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the material of the dinosaur?,What material is the dinosaur made of in the image?
+IMG_4705.jpeg,Rephrase the question,What is the size of the dinosaur?,What is the approximate size of the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the shape of the dinosaur?,What is the shape of the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the texture of the dinosaur?,What is the texture of the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the function of the dinosaur?,What is the purpose of the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the history of the dinosaur?,Can you provide any historical context about the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the cultural significance of the dinosaur?,Is there any cultural significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the scientific significance of the dinosaur?,Is there any scientific significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the economic significance of the dinosaur?,Is there any economic significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the environmental significance of the dinosaur?,Is there any environmental significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the social significance of the dinosaur?,Is there any social significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the political significance of the dinosaur?,Is there any political significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the religious significance of the dinosaur?,Is there any religious significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the philosophical significance of the dinosaur?,Is there any philosophical significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the psychological significance of the dinosaur?,Is there any psychological significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the artistic significance of the dinosaur?,Is there any artistic significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the literary significance of the dinosaur?,Is there any literary significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the musical significance of the dinosaur?,Is there any musical significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the theatrical significance of the dinosaur?,Is there any theatrical significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the cinematic significance of the dinosaur?,Is there any cinematic significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the television significance of the dinosaur?,Is there any television significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the video game significance of the dinosaur?,Is there any video game significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the internet significance of the dinosaur?,Is there any internet significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the future significance of the dinosaur?,Is there any future significance associated with the dinosaur in the image?
+IMG_4705.jpeg,Rephrase the question,What is the overall significance of the dinosaur?,What is the overall significance of the dinosaur in the image?
+IMG_4709.jpeg,Rephrase the question,How many people are in the image?,"Do you see any people in the image? If yes, how many people are there?"
+IMG_4709.jpeg,Rephrase the question,What are the people doing?,What activities are the people engaged in?
+IMG_4709.jpeg,Rephrase the question,Where are the people?,Where are the people located in the image?
+IMG_4709.jpeg,Rephrase the question,What is the floor made of?,What material is the floor constructed from?
+IMG_4709.jpeg,Rephrase the question,What is the ceiling made of?,What material is the ceiling constructed from?
+IMG_4709.jpeg,Rephrase the question,What are the walls made of?,What material are the walls constructed from?
+IMG_4709.jpeg,Rephrase the question,What kind of lighting is there?,What type of lighting is present in the image?
+IMG_4709.jpeg,Rephrase the question,What is the temperature like?,What is the approximate temperature depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the humidity like?,What is the approximate humidity level depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the air quality like?,What is the approximate air quality depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the noise level like?,What is the approximate noise level depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the smell like?,What is the approximate smell depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the taste like?,What is the approximate taste depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the texture like?,What is the approximate texture depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the shape like?,What is the approximate shape depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the size like?,What is the approximate size depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the weight like?,What is the approximate weight depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the color like?,What are the approximate colors depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the pattern like?,What are the approximate patterns depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the style like?,What is the approximate style depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the age like?,What is the approximate age depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the gender like?,What is the approximate gender depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the race like?,What is the approximate race depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the ethnicity like?,What is the approximate ethnicity depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the religion like?,What is the approximate religion depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the political affiliation like?,What is the approximate political affiliation depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the socioeconomic status like?,What is the approximate socioeconomic status depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the educational attainment like?,What is the approximate educational attainment depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the employment status like?,What is the approximate employment status depicted in the image?
+IMG_4709.jpeg,Rephrase the question,What is the marital status like?,What is the approximate marital status depicted in the image?
+IMG_4725.jpeg,Rephrase the question,How many clothes hangers are visible?,"Do you see any clothes hangers in the image? If yes, how many clothes hangers are visible?"
+IMG_4725.jpeg,Rephrase the question,What is the color of the clothes hangers?,What is the color of the clothes hangers in the image?
+IMG_4725.jpeg,Rephrase the question,Are all the clothes hangers the same type?,Are all the clothes hangers in the image the same type?
+IMG_4725.jpeg,Rephrase the question,How many clothes are hanging on the rack?,How many clothes are hanging on the rack in the image?
+IMG_4725.jpeg,Rephrase the question,What is the predominant color of the clothes?,What is the predominant color of the clothes in the image?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not hanging on a hanger?,Are there any clothes in the image that are not hanging on a hanger?
+IMG_4725.jpeg,Rephrase the question,What is the material of the clothes?,What is the material of the clothes in the image?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are wrinkled?,Are there any clothes in the image that are wrinkled?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are stained?,Are there any clothes in the image that are stained?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are damaged?,Are there any clothes in the image that are damaged?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are out of season?,Are there any clothes in the image that are out of season?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are too small or too big?,Are there any clothes in the image that are too small or too big?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the occasion?,Are there any clothes in the image that are not appropriate for the occasion?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the weather?,Are there any clothes in the image that are not appropriate for the weather?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's age?,Are there any clothes in the image that are not appropriate for the person's age?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's gender?,Are there any clothes in the image that are not appropriate for the person's gender?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's culture?,Are there any clothes in the image that are not appropriate for the person's culture?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's religion?,Are there any clothes in the image that are not appropriate for the person's religion?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's personality?,Are there any clothes in the image that are not appropriate for the person's personality?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's lifestyle?,Are there any clothes in the image that are not appropriate for the person's lifestyle?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's budget?,Are there any clothes in the image that are not appropriate for the person's budget?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's needs?,Are there any clothes in the image that are not appropriate for the person's needs?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's wants?,Are there any clothes in the image that are not appropriate for the person's wants?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's desires?,Are there any clothes in the image that are not appropriate for the person's desires?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's dreams?,Are there any clothes in the image that are not appropriate for the person's dreams?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's goals?,Are there any clothes in the image that are not appropriate for the person's goals?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's aspirations?,Are there any clothes in the image that are not appropriate for the person's aspirations?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's ambitions?,Are there any clothes in the image that are not appropriate for the person's ambitions?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's purpose?,Are there any clothes in the image that are not appropriate for the person's purpose?
+IMG_4725.jpeg,Rephrase the question,Are there any clothes that are not appropriate for the person's life?,Are there any clothes in the image that are not appropriate for the person's life?
+IMG_4698.jpeg,Rephrase the question,How many posters are there?,"Do you see any posters in the image? If yes, how many posters are there?"
+IMG_4698.jpeg,Rephrase the question,What is the title of the poster on the left?,Can you identify the title of the poster on the left?
+IMG_4698.jpeg,Rephrase the question,What is the title of the poster on the right?,Can you identify the title of the poster on the right?
+IMG_4698.jpeg,Rephrase the question,What is the date of the poster on the left?,Can you determine the date of the poster on the left?
+IMG_4698.jpeg,Rephrase the question,What are the names of the people in the poster on the left?,Can you identify the names of the people featured in the poster on the left?
+IMG_4698.jpeg,Rephrase the question,What are the names of the people in the poster on the right?,Can you identify the names of the people featured in the poster on the right?
+IMG_4698.jpeg,Rephrase the question,What is the name of the theater company that is putting on the show?,Can you identify the name of the theater company that is presenting the show?
+IMG_4698.jpeg,Rephrase the question,What is the name of the show that is being put on?,Can you identify the name of the show that is being presented?
+IMG_4698.jpeg,Rephrase the question,What is the date of the show?,Can you determine the date of the show?
+IMG_4698.jpeg,Rephrase the question,What is the time of the show?,Can you determine the time of the show?
+IMG_4698.jpeg,Rephrase the question,What is the price of the tickets?,Can you identify the price of the tickets?
+IMG_4698.jpeg,Rephrase the question,Where can the tickets be purchased?,Can you identify where the tickets can be purchased?
+IMG_4698.jpeg,Rephrase the question,Is there a website for the show?,Is there a website associated with the show?
+IMG_4698.jpeg,Rephrase the question,What is the name of the theater where the show is being performed?,Can you identify the name of the theater where the show is being performed?
+IMG_4698.jpeg,Rephrase the question,Where is the theater located?,Can you determine the location of the theater?
+IMG_4698.jpeg,Rephrase the question,How many seats are there in the theater?,Can you estimate the number of seats in the theater?
+IMG_4698.jpeg,Rephrase the question,What type of seating is available?,Can you identify the types of seating available?
+IMG_4698.jpeg,Rephrase the question,Are there any discounts available for tickets?,Are there any discounts available for tickets?
+IMG_4698.jpeg,Rephrase the question,Is there a parking lot available for the theater?,Is there a parking lot available for the theater?
+IMG_4698.jpeg,Rephrase the question,Is the theater accessible to people with disabilities?,Is the theater accessible to individuals with disabilities?
+IMG_4698.jpeg,Rephrase the question,What are the hours of operation for the theater?,Can you determine the hours of operation for the theater?
+IMG_4698.jpeg,Rephrase the question,What is the contact information for the theater?,Can you provide the contact information for the theater?
+IMG_4698.jpeg,Rephrase the question,What is the history of the theater?,Can you provide a brief history of the theater?
+IMG_4698.jpeg,Rephrase the question,What are some of the other shows that have been performed at the theater?,Can you identify some of the other shows that have been performed at the theater?
+IMG_4698.jpeg,Rephrase the question,What are the upcoming shows that are scheduled to be performed at the theater?,Can you identify any upcoming shows that are scheduled to be performed at the theater?
+IMG_4698.jpeg,Rephrase the question,How can I get involved with the theater?,How can individuals get involved with the theater?
+IMG_4698.jpeg,Rephrase the question,What are the theater's social media pages?,Can you provide the theater's social media pages?
+IMG_4698.jpeg,Rephrase the question,What is the theater's mission statement?,Can you provide the theater's mission statement?
+IMG_4698.jpeg,Rephrase the question,What is the theater's vision statement?,Can you provide the theater's vision statement?
+IMG_4698.jpeg,Rephrase the question,What are the theater's core values?,Can you provide the theater's core values?
+IMG_4708.jpeg,Rephrase the question,What is the name of the store?,Can you identify the name of the store in the image?
+IMG_4708.jpeg,Rephrase the question,What is the store's slogan?,"Is there a slogan visible in the image? If so, what does it say?"
+IMG_4708.jpeg,Rephrase the question,What type of food is served at the store?,"Based on the image, what type of food do you think is served at the store?"
+IMG_4708.jpeg,Rephrase the question,What are the hours of operation?,"Are the store's hours of operation displayed in the image? If so, what are they?"
+IMG_4708.jpeg,Rephrase the question,What are the prices of the items on the menu?,"Are there any menu items visible in the image? If so, what are their prices?"
+IMG_4708.jpeg,Rephrase the question,What are the ingredients in each item on the menu?,Can you identify any ingredients listed in the image for the menu items?
+IMG_4708.jpeg,Rephrase the question,Are there any vegan or gluten-free options available?,Are there any signs or labels indicating vegan or gluten-free options in the image?
+IMG_4708.jpeg,Rephrase the question,Does the store offer catering services?,Does the image show any evidence of catering services being offered?
+IMG_4708.jpeg,Rephrase the question,Is there a loyalty program available?,Is there a loyalty program mentioned or displayed in the image?
+IMG_4708.jpeg,Rephrase the question,What is the store's policy on refunds and exchanges?,Are there any signs or notices regarding the store's refund and exchange policy visible in the image?
+IMG_4708.jpeg,Rephrase the question,How can I contact the store?,"Is there any contact information, such as a phone number or website, displayed in the image?"
+IMG_4708.jpeg,Rephrase the question,Where is the store located?,Can you determine the location of the store based on the image?
+IMG_4708.jpeg,Rephrase the question,Is there a seating area in the store?,Is there a seating area visible in the image?
+IMG_4708.jpeg,Rephrase the question,Is there a restroom in the store?,Is there a restroom visible in the image?
+IMG_4708.jpeg,Rephrase the question,Is there a parking lot available?,Is there a parking lot visible in the image?
+IMG_4708.jpeg,Rephrase the question,Is the store accessible to people with disabilities?,Are there any signs or features in the image indicating accessibility for people with disabilities?
+IMG_4708.jpeg,Rephrase the question,What is the dress code for the store?,Is there a dress code displayed or implied in the image?
+IMG_4708.jpeg,Rephrase the question,What is the age requirement to enter the store?,Is there any information about an age requirement for entering the store visible in the image?
+IMG_4708.jpeg,Rephrase the question,Are children allowed in the store?,Are there any signs or indications in the image regarding children being allowed in the store?
+IMG_4708.jpeg,Rephrase the question,Are pets allowed in the store?,Are there any signs or indications in the image regarding pets being allowed in the store?
+IMG_4708.jpeg,Rephrase the question,Is smoking allowed in the store?,Is there any indication in the image that smoking is allowed in the store?
+IMG_4708.jpeg,Rephrase the question,Is vaping allowed in the store?,Is there any indication in the image that vaping is allowed in the store?
+IMG_4708.jpeg,Rephrase the question,Is alcohol served in the store?,Is there any indication in the image that alcohol is served in the store?
+IMG_4708.jpeg,Rephrase the question,Is there a happy hour menu available?,Is there a happy hour menu displayed or mentioned in the image?
+IMG_4708.jpeg,Rephrase the question,Does the store offer delivery services?,Is there any indication in the image that the store offers delivery services?
+IMG_4708.jpeg,Rephrase the question,Does the store offer takeout services?,Is there any indication in the image that the store offers takeout services?
+IMG_4708.jpeg,Rephrase the question,Does the store have a website?,Is there a website address displayed or mentioned in the image?
+IMG_4708.jpeg,Rephrase the question,Does the store have a social media presence?,Are there any social media handles or icons visible in the image?
+IMG_4708.jpeg,Rephrase the question,What is the store's rating on Yelp?,Is there a Yelp rating displayed or mentioned in the image?
+IMG_4708.jpeg,Rephrase the question,What is the store's rating on Google?,Is there a Google rating displayed or mentioned in the image?
+IMG_4694.jpeg,Rephrase the question,How many different types of salad mix are there?,"Do you see any different types of salad mix in the image? If yes, how many different types are there?"
+IMG_4694.jpeg,Rephrase the question,What is the price of the Simply Nature Organic Baby Spring Mix?,Can you find the price of the Simply Nature Organic Baby Spring Mix in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is on sale?,Which salad mix in the image is on sale?
+IMG_4694.jpeg,Rephrase the question,How much is the Earthbound Farm Organic Baby Kale?,Can you find the price of the Earthbound Farm Organic Baby Kale in the image?
+IMG_4694.jpeg,Rephrase the question,Is there any product that costs $4.99?,Is there any product in the image that costs $4.99?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very top right corner?,Which salad mix is located at the very top right corner of the image?
+IMG_4694.jpeg,Rephrase the question,How many containers of salad mix are there in total?,How many containers of salad mix are visible in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Marketside Baby Spinach?,Can you find the price of the Marketside Baby Spinach in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very bottom left corner?,Which salad mix is located at the very bottom left corner of the image?
+IMG_4694.jpeg,Rephrase the question,How many different brands of salad mix are there?,How many different brands of salad mix are visible in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Fresh Express Baby Arugula?,Can you find the price of the Fresh Express Baby Arugula in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very top left corner?,Which salad mix is located at the very top left corner of the image?
+IMG_4694.jpeg,Rephrase the question,How many containers of salad mix are on the top shelf?,How many containers of salad mix are on the top shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Taylor Farms Organic Baby Spinach?,Can you find the price of the Taylor Farms Organic Baby Spinach in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very bottom right corner?,Which salad mix is located at the very bottom right corner of the image?
+IMG_4694.jpeg,Rephrase the question,How many different types of salad mix are there on the bottom shelf?,How many different types of salad mix are on the bottom shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Dole Baby Spinach?,Can you find the price of the Dole Baby Spinach in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very top middle?,Which salad mix is located at the very top middle of the image?
+IMG_4694.jpeg,Rephrase the question,How many containers of salad mix are on the middle shelf?,How many containers of salad mix are on the middle shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Simply Nature Organic Baby Arugula?,Can you find the price of the Simply Nature Organic Baby Arugula in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very bottom middle?,Which salad mix is located at the very bottom middle of the image?
+IMG_4694.jpeg,Rephrase the question,How many different types of salad mix are there on the top shelf?,How many different types of salad mix are on the top shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Fresh Express Baby Kale?,Can you find the price of the Fresh Express Baby Kale in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very top right?,Which salad mix is located at the very top right of the image?
+IMG_4694.jpeg,Rephrase the question,How many containers of salad mix are on the bottom shelf?,How many containers of salad mix are on the bottom shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Earthbound Farm Organic Baby Arugula?,Can you find the price of the Earthbound Farm Organic Baby Arugula in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very top left?,Which salad mix is located at the very top left of the image?
+IMG_4694.jpeg,Rephrase the question,How many different types of salad mix are there on the middle shelf?,How many different types of salad mix are on the middle shelf in the image?
+IMG_4694.jpeg,Rephrase the question,What is the price of the Taylor Farms Organic Baby Arugula?,Can you find the price of the Taylor Farms Organic Baby Arugula in the image?
+IMG_4694.jpeg,Rephrase the question,Which salad mix is at the very bottom right?,Which salad mix is located at the very bottom right of the image?
+IMG_4712.jpeg,Rephrase the question,What is the name of the restaurant?,Do you see any signage or branding in the image that indicates the name of the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the slogan of the restaurant?,Do you see any signage or branding in the image that indicates the slogan of the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the main menu item?,"Do you see any menu items featured prominently in the image? If so, what is the main menu item?"
+IMG_4712.jpeg,Rephrase the question,What are the different sizes of french fries that are offered?,Do you see any signage or menu boards in the image that indicate the different sizes of french fries offered?
+IMG_4712.jpeg,Rephrase the question,What are the different flavors of french fries that are offered?,Do you see any signage or menu boards in the image that indicate the different flavors of french fries offered?
+IMG_4712.jpeg,Rephrase the question,What are the different toppings that are offered for the french fries?,Do you see any signage or menu boards in the image that indicate the different toppings offered for the french fries?
+IMG_4712.jpeg,Rephrase the question,What are the different types of chicken that are offered?,Do you see any signage or menu boards in the image that indicate the different types of chicken offered?
+IMG_4712.jpeg,Rephrase the question,What are the different types of sandwiches that are offered?,Do you see any signage or menu boards in the image that indicate the different types of sandwiches offered?
+IMG_4712.jpeg,Rephrase the question,What are the different types of salads that are offered?,Do you see any signage or menu boards in the image that indicate the different types of salads offered?
+IMG_4712.jpeg,Rephrase the question,What are the different types of drinks that are offered?,Do you see any signage or menu boards in the image that indicate the different types of drinks offered?
+IMG_4712.jpeg,Rephrase the question,What are the different types of desserts that are offered?,Do you see any signage or menu boards in the image that indicate the different types of desserts offered?
+IMG_4712.jpeg,Rephrase the question,What are the prices of the different menu items?,Do you see any signage or menu boards in the image that indicate the prices of the different menu items?
+IMG_4712.jpeg,Rephrase the question,Are there any specials or promotions that are being offered?,Do you see any signage or promotional materials in the image that indicate any specials or promotions being offered?
+IMG_4712.jpeg,Rephrase the question,What are the hours of operation of the restaurant?,Do you see any signage or branding in the image that indicates the hours of operation of the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the location of the restaurant?,Do you see any signage or branding in the image that indicates the location of the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is there a website for the restaurant?,Do you see any signage or branding in the image that indicates the website of the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is there a phone number for the restaurant?,Do you see any signage or branding in the image that indicates the phone number of the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is there an email address for the restaurant?,Do you see any signage or branding in the image that indicates the email address of the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is there a social media presence for the restaurant?,Do you see any social media icons or handles in the image that indicate the social media presence of the restaurant?
+IMG_4712.jpeg,Rephrase the question,What are the reviews of the restaurant like?,Do you see any reviews or testimonials in the image that indicate the reviews of the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is the restaurant kid-friendly?,Do you see any signage or branding in the image that indicates whether the restaurant is kid-friendly?
+IMG_4712.jpeg,Rephrase the question,Is the restaurant wheelchair accessible?,Do you see any signage or branding in the image that indicates whether the restaurant is wheelchair accessible?
+IMG_4712.jpeg,Rephrase the question,Is the restaurant pet-friendly?,Do you see any signage or branding in the image that indicates whether the restaurant is pet-friendly?
+IMG_4712.jpeg,Rephrase the question,What are the payment options that are accepted at the restaurant?,Do you see any signage or branding in the image that indicates the payment options accepted at the restaurant?
+IMG_4712.jpeg,Rephrase the question,Is there a dress code for the restaurant?,Do you see any signage or branding in the image that indicates a dress code for the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the cancellation policy for the restaurant?,Do you see any signage or branding in the image that indicates the cancellation policy for the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the refund policy for the restaurant?,Do you see any signage or branding in the image that indicates the refund policy for the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the privacy policy for the restaurant?,Do you see any signage or branding in the image that indicates the privacy policy for the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the terms of service for the restaurant?,Do you see any signage or branding in the image that indicates the terms of service for the restaurant?
+IMG_4712.jpeg,Rephrase the question,What is the copyright policy for the restaurant?,Do you see any signage or branding in the image that indicates the copyright policy for the restaurant?
+IMG_4704.jpeg,Rephrase the question,What is the name of the shopping mall?,Can you identify the name of the shopping mall from the image?
+IMG_4704.jpeg,Rephrase the question,What stores are visible in the image?,Which stores can you see in the image?
+IMG_4704.jpeg,Rephrase the question,What is the color of the floor?,What color is the floor in the image?
+IMG_4704.jpeg,Rephrase the question,What is the color of the ceiling?,What color is the ceiling in the image?
+IMG_4704.jpeg,Rephrase the question,What is the material of the handrails?,What material are the handrails made of in the image?
+IMG_4704.jpeg,Rephrase the question,How many people are in the image?,How many people can you count in the image?
+IMG_4704.jpeg,Rephrase the question,What are the people wearing?,What are the people in the image wearing?
+IMG_4704.jpeg,Rephrase the question,What is the time of day?,What time of day does the image appear to be taken?
+IMG_4704.jpeg,Rephrase the question,What is the weather like?,What is the weather like in the image?
+IMG_4704.jpeg,Rephrase the question,Is the mall crowded?,Does the mall appear to be crowded in the image?
+IMG_4704.jpeg,Rephrase the question,Are there any decorations in the mall?,Are there any decorations visible in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a food court in the mall?,Is there a food court in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a movie theater in the mall?,Is there a movie theater in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a play area for children in the mall?,Is there a play area for children in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Are there any benches or seating areas in the mall?,Are there any benches or seating areas in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Are there any restrooms in the mall?,Are there any restrooms in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Are there any ATMs in the mall?,Are there any ATMs in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a lost and found in the mall?,Is there a lost and found in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a security desk in the mall?,Is there a security desk in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a first aid station in the mall?,Is there a first aid station in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a customer service desk in the mall?,Is there a customer service desk in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a mall map available?,Is there a mall map available in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a directory of stores in the mall?,Is there a directory of stores in the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a website for the mall?,Is there a website for the mall in the image?
+IMG_4704.jpeg,Rephrase the question,What are the hours of operation for the mall?,What are the hours of operation for the mall in the image?
+IMG_4704.jpeg,Rephrase the question,What is the parking situation at the mall?,What is the parking situation at the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is there a public transportation stop near the mall?,Is there a public transportation stop near the mall in the image?
+IMG_4704.jpeg,Rephrase the question,Is the mall accessible to people with disabilities?,Is the mall accessible to people with disabilities in the image?
+IMG_4704.jpeg,Rephrase the question,What is the history of the mall?,What is the history of the mall in the image?
+IMG_4704.jpeg,Rephrase the question,What are the future plans for the mall?,What are the future plans for the mall in the image?
+IMG_4681.jpeg,Rephrase the question,What is the surface of the parking lot made of?,Can you identify the material used for the parking lot's surface?
+IMG_4681.jpeg,Rephrase the question,What is the color of the building?,What color is the building painted?
+IMG_4681.jpeg,Rephrase the question,How many windows are visible in the building?,How many windows can you count on the building?
+IMG_4681.jpeg,Rephrase the question,What is the number of the building?,"Is there a visible building number? If so, what is it?"
+IMG_4681.jpeg,Rephrase the question,Is there a sign on the building? What does it say?,"Does the building have a sign? If yes, what does it display?"
+IMG_4681.jpeg,Rephrase the question,What is on the ground to the left of the building?,What object is located on the ground to the left of the building?
+IMG_4681.jpeg,Rephrase the question,What is on the ground to the right of the building?,What object is located on the ground to the right of the building?
+IMG_4681.jpeg,Rephrase the question,What is the color of the sky?,What color is the sky in the image?
+IMG_4681.jpeg,Rephrase the question,Are there any trees in the image?,Are there any trees visible in the image?
+IMG_4681.jpeg,Rephrase the question,Are there any bushes in the image?,Are there any bushes visible in the image?
+IMG_4681.jpeg,Rephrase the question,What is the color of the flowers?,What color are the flowers in the image?
+IMG_4681.jpeg,Rephrase the question,What is the condition of the sidewalk?,Describe the condition of the sidewalk.
+IMG_4681.jpeg,Rephrase the question,Is there a curb cut?,Is there a curb cut present?
+IMG_4681.jpeg,Rephrase the question,How many parking spaces are there?,How many parking spaces are available?
+IMG_4681.jpeg,Rephrase the question,Are there any handicapped parking spaces?,Are there any designated handicapped parking spaces?
+IMG_4681.jpeg,Rephrase the question,Where is the handicapped parking space located?,Where is the handicapped parking space located?
+IMG_4681.jpeg,Rephrase the question,What is the number of the handicapped parking space?,What is the number of the handicapped parking space?
+IMG_4681.jpeg,Rephrase the question,Is there a sign on the handicapped parking space? What does it say?,"Does the handicapped parking space have a sign? If yes, what does it say?"
+IMG_4681.jpeg,Rephrase the question,What is the condition of the handicapped parking space?,Describe the condition of the handicapped parking space.
+IMG_4681.jpeg,Rephrase the question,Is there a van in the handicapped parking space?,Is there a van parked in the handicapped parking space?
+IMG_4681.jpeg,Rephrase the question,What is the color of the van?,What color is the van?
+IMG_4681.jpeg,Rephrase the question,What is the make of the van?,What is the make of the van?
+IMG_4681.jpeg,Rephrase the question,What is the model of the van?,What is the model of the van?
+IMG_4681.jpeg,Rephrase the question,What is the license plate number of the van?,What is the license plate number of the van?
+IMG_4681.jpeg,Rephrase the question,Is there a sticker on the van? What does it say?,"Does the van have any stickers? If yes, what do they say?"
+IMG_4681.jpeg,Rephrase the question,Is there anything else in the image?,Are there any other objects or features visible in the image?
+IMG_4681.jpeg,Rephrase the question,What is the weather like?,What is the weather condition depicted in the image?
+IMG_4681.jpeg,Rephrase the question,Is it a clear day?,Is it a clear day in the image?
+IMG_4681.jpeg,Rephrase the question,Is it a cloudy day?,Is it a cloudy day in the image?
+IMG_4681.jpeg,Rephrase the question,Is it a rainy day?,Is it a rainy day in the image?
+IMG_4697.jpeg,Rephrase the question,How many checkout lanes are there?,"Do you see any checkout lanes in the image? If yes, how many checkout lanes are there?"
+IMG_4697.jpeg,Rephrase the question,How many lanes are self-checkout?,"Do you see any self-checkout lanes in the image? If yes, how many self-checkout lanes are there?"
+IMG_4697.jpeg,Rephrase the question,How many lanes have cashiers?,"Do you see any cashier lanes in the image? If yes, how many cashier lanes are there?"
+IMG_4697.jpeg,Rephrase the question,How many people are in line at the self-checkout lanes?,"Do you see any people in line at the self-checkout lanes in the image? If yes, how many people are in line at the self-checkout lanes?"
+IMG_4697.jpeg,Rephrase the question,How many people are in line at the cashier lanes?,"Do you see any people in line at the cashier lanes in the image? If yes, how many people are in line at the cashier lanes?"
+IMG_4697.jpeg,Rephrase the question,What is the number of the first self-checkout lane?,"Do you see a first self-checkout lane in the image? If yes, what is the number of the first self-checkout lane?"
+IMG_4697.jpeg,Rephrase the question,What is the number of the last self-checkout lane?,"Do you see a last self-checkout lane in the image? If yes, what is the number of the last self-checkout lane?"
+IMG_4697.jpeg,Rephrase the question,What is the number of the first cashier lane?,"Do you see a first cashier lane in the image? If yes, what is the number of the first cashier lane?"
+IMG_4697.jpeg,Rephrase the question,What is the number of the last cashier lane?,"Do you see a last cashier lane in the image? If yes, what is the number of the last cashier lane?"
+IMG_4697.jpeg,Rephrase the question,What is the total number of people in the checkout area?,"Do you see any people in the checkout area in the image? If yes, what is the total number of people in the checkout area?"
+IMG_4697.jpeg,Rephrase the question,What is the color of the floor?,What is the color of the floor in the image?
+IMG_4697.jpeg,Rephrase the question,What is the color of the ceiling?,What is the color of the ceiling in the image?
+IMG_4697.jpeg,Rephrase the question,What is the color of the walls?,What is the color of the walls in the image?
+IMG_4697.jpeg,Rephrase the question,What is the type of lighting used in the checkout area?,What type of lighting is used in the checkout area in the image?
+IMG_4697.jpeg,Rephrase the question,What is the material of the checkout counters?,What is the material of the checkout counters in the image?
+IMG_4697.jpeg,Rephrase the question,What is the material of the shopping carts?,What is the material of the shopping carts in the image?
+IMG_4697.jpeg,Rephrase the question,What is the color of the shopping carts?,What is the color of the shopping carts in the image?
+IMG_4697.jpeg,Rephrase the question,What is the size of the shopping carts?,What is the size of the shopping carts in the image?
+IMG_4697.jpeg,Rephrase the question,What is the shape of the shopping carts?,What is the shape of the shopping carts in the image?
+IMG_4697.jpeg,Rephrase the question,What is the brand name of the grocery store?,"Do you see a brand name of the grocery store in the image? If yes, what is the brand name of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the location of the grocery store?,"Do you see a location of the grocery store in the image? If yes, what is the location of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What are the hours of operation of the grocery store?,"Do you see any hours of operation of the grocery store in the image? If yes, what are the hours of operation of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What are the payment methods accepted at the grocery store?,"Do you see any payment methods accepted at the grocery store in the image? If yes, what are the payment methods accepted at the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the return policy of the grocery store?,"Do you see a return policy of the grocery store in the image? If yes, what is the return policy of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the customer service number of the grocery store?,"Do you see a customer service number of the grocery store in the image? If yes, what is the customer service number of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the website of the grocery store?,"Do you see a website of the grocery store in the image? If yes, what is the website of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the social media presence of the grocery store?,"Do you see any social media presence of the grocery store in the image? If yes, what is the social media presence of the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What are the current promotions and discounts offered by the grocery store?,"Do you see any current promotions and discounts offered by the grocery store in the image? If yes, what are the current promotions and discounts offered by the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What are the upcoming events and workshops hosted by the grocery store?,"Do you see any upcoming events and workshops hosted by the grocery store in the image? If yes, what are the upcoming events and workshops hosted by the grocery store?"
+IMG_4697.jpeg,Rephrase the question,What is the history of the grocery store?,"Do you see any history of the grocery store in the image? If yes, what is the history of the grocery store?"
+IMG_4711.jpeg,Rephrase the question,What is the name of the restaurant?,Can you identify the name of the restaurant from the image?
+IMG_4711.jpeg,Rephrase the question,What is the slogan of the restaurant?,"Is there a slogan visible in the image? If so, what does it say?"
+IMG_4711.jpeg,Rephrase the question,What is the main type of food served at the restaurant?,What type of cuisine is primarily featured in the image?
+IMG_4711.jpeg,Rephrase the question,What are the different types of french fries served at the restaurant?,Are there any specific types of french fries shown in the image?
+IMG_4711.jpeg,Rephrase the question,What are the different types of chicken combos served at the restaurant?,"Are there any chicken combos displayed in the image? If so, what are the different types?"
+IMG_4711.jpeg,Rephrase the question,What are the different types of kids' combos served at the restaurant?,"Are there any kids' combos visible in the image? If so, what are the different types?"
+IMG_4711.jpeg,Rephrase the question,What are the different types of fries combos served at the restaurant?,"Are there any fries combos shown in the image? If so, what are the different types?"
+IMG_4711.jpeg,Rephrase the question,What are the different types of drinks served at the restaurant?,What types of drinks can you identify in the image?
+IMG_4711.jpeg,Rephrase the question,What are the different types of desserts served at the restaurant?,"Are there any desserts visible in the image? If so, what are the different types?"
+IMG_4711.jpeg,Rephrase the question,What are the different types of sauces served at the restaurant?,"Are there any sauces shown in the image? If so, what are the different types?"
+IMG_4711.jpeg,Rephrase the question,What is the price of a small order of fries?,Is the price of a small order of fries visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a large order of fries?,Is the price of a large order of fries visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a small order of chicken?,Is the price of a small order of chicken visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a large order of chicken?,Is the price of a large order of chicken visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a kids' combo?,Is the price of a kids' combo visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a fries combo?,Is the price of a fries combo visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a drink?,Is the price of a drink visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a dessert?,Is the price of a dessert visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the price of a sauce?,Is the price of a sauce visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the total price of the order?,Is the total price of the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the tax on the order?,Is the tax on the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the tip on the order?,Is the tip on the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the total amount of the order?,Is the total amount of the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the name of the person who took the order?,Is the name of the person who took the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the name of the person who prepared the order?,Is the name of the person who prepared the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the name of the person who served the order?,Is the name of the person who served the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the time of the order?,Is the time of the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the date of the order?,Is the date of the order visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the order number?,Is the order number visible in the image?
+IMG_4711.jpeg,Rephrase the question,What is the phone number of the restaurant?,Is the phone number of the restaurant visible in the image?
+IMG_4707.jpeg,Rephrase the question,What is the name of the first item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the first item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the first item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the first item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the second item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the second item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the second item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the second item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the third item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the third item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the third item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the third item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the fourth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the fourth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the fourth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the fourth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the fifth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the fifth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the fifth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the fifth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the sixth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the sixth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the sixth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the sixth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the seventh item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the seventh item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the seventh item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the seventh item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the eighth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the eighth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the eighth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the eighth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the ninth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the ninth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the ninth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the ninth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the tenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the tenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the tenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the tenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the eleventh item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the eleventh item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the eleventh item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the eleventh item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the twelfth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the twelfth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the twelfth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the twelfth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the thirteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the thirteenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the thirteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the thirteenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the fourteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the fourteenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the fourteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the fourteenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the name of the fifteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the fifteenth item on the menu?"
+IMG_4707.jpeg,Rephrase the question,What is the price of the fifteenth item on the menu?,"Do you see any text on the image that resembles a menu? If yes, can you identify the price of the fifteenth item on the menu?"
+IMG_4726.jpeg,Rephrase the question,How many coats are there?,"Do you see any coats in the image? If yes, then how many coats are there?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the first coat?,"If there is more than one coat in the image, what is the color of the first coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the second coat?,"If there is more than one coat in the image, what is the color of the second coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the third coat?,"If there is more than two coats in the image, what is the color of the third coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the fourth coat?,"If there is more than three coats in the image, what is the color of the fourth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the fifth coat?,"If there is more than four coats in the image, what is the color of the fifth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the sixth coat?,"If there is more than five coats in the image, what is the color of the sixth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the seventh coat?,"If there is more than six coats in the image, what is the color of the seventh coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the eighth coat?,"If there is more than seven coats in the image, what is the color of the eighth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the ninth coat?,"If there is more than eight coats in the image, what is the color of the ninth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the tenth coat?,"If there is more than nine coats in the image, what is the color of the tenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the eleventh coat?,"If there is more than ten coats in the image, what is the color of the eleventh coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twelfth coat?,"If there is more than eleven coats in the image, what is the color of the twelfth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the thirteenth coat?,"If there is more than twelve coats in the image, what is the color of the thirteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the fourteenth coat?,"If there is more than thirteen coats in the image, what is the color of the fourteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the fifteenth coat?,"If there is more than fourteen coats in the image, what is the color of the fifteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the sixteenth coat?,"If there is more than fifteen coats in the image, what is the color of the sixteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the seventeenth coat?,"If there is more than sixteen coats in the image, what is the color of the seventeenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the eighteenth coat?,"If there is more than seventeen coats in the image, what is the color of the eighteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the nineteenth coat?,"If there is more than eighteen coats in the image, what is the color of the nineteenth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twentieth coat?,"If there is more than nineteen coats in the image, what is the color of the twentieth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-first coat?,"If there is more than twenty coats in the image, what is the color of the twenty-first coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-second coat?,"If there is more than twenty-one coats in the image, what is the color of the twenty-second coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-third coat?,"If there is more than twenty-two coats in the image, what is the color of the twenty-third coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-fourth coat?,"If there is more than twenty-three coats in the image, what is the color of the twenty-fourth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-fifth coat?,"If there is more than twenty-four coats in the image, what is the color of the twenty-fifth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-sixth coat?,"If there is more than twenty-five coats in the image, what is the color of the twenty-sixth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-seventh coat?,"If there is more than twenty-six coats in the image, what is the color of the twenty-seventh coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-eighth coat?,"If there is more than twenty-seven coats in the image, what is the color of the twenty-eighth coat?"
+IMG_4726.jpeg,Rephrase the question,What is the color of the twenty-ninth coat?,"If there is more than twenty-eight coats in the image, what is the color of the twenty-ninth coat?"
+IMG_4706.jpeg,Rephrase the question,What is the name of the store on the left?,"Do you see any store names on the left side of the image? If yes, what is the name of the store?"
+IMG_4706.jpeg,Rephrase the question,What is the name of the store on the right?,"Do you see any store names on the right side of the image? If yes, what is the name of the store?"
+IMG_4706.jpeg,Rephrase the question,What is the name of the store in the distance?,"Do you see any store names in the distance? If yes, what is the name of the store?"
+IMG_4706.jpeg,Rephrase the question,What is the name of the food court?,"Do you see any food court signs in the image? If yes, what is the name of the food court?"
+IMG_4706.jpeg,Rephrase the question,Where are the restrooms located?,"Do you see any restroom signs in the image? If yes, where are the restrooms located?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest escalator?,"Do you see any escalator signs in the image? If yes, where is the nearest escalator?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest elevator?,"Do you see any elevator signs in the image? If yes, where is the nearest elevator?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest ATM?,"Do you see any ATM signs in the image? If yes, where is the nearest ATM?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest payphone?,"Do you see any payphone signs in the image? If yes, where is the nearest payphone?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest drinking fountain?,"Do you see any drinking fountain signs in the image? If yes, where is the nearest drinking fountain?"
+IMG_4706.jpeg,Rephrase the question,Where is the nearest seating area?,"Do you see any seating areas in the image? If yes, where is the nearest seating area?"
+IMG_4706.jpeg,Rephrase the question,What is the color of the floor?,What is the color of the floor in the image?
+IMG_4706.jpeg,Rephrase the question,What is the color of the walls?,What is the color of the walls in the image?
+IMG_4706.jpeg,Rephrase the question,What is the color of the ceiling?,What is the color of the ceiling in the image?
+IMG_4706.jpeg,Rephrase the question,What is the type of lighting used in the mall?,What type of lighting is used in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the temperature in the mall?,What is the temperature in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the humidity in the mall?,What is the humidity in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the air quality in the mall?,What is the air quality in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the noise level in the mall?,What is the noise level in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the smell of the mall?,What is the smell of the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the texture of the floor?,What is the texture of the floor in the image?
+IMG_4706.jpeg,Rephrase the question,What is the texture of the walls?,What is the texture of the walls in the image?
+IMG_4706.jpeg,Rephrase the question,What is the texture of the ceiling?,What is the texture of the ceiling in the image?
+IMG_4706.jpeg,Rephrase the question,What is the texture of the furniture?,What is the texture of the furniture in the image?
+IMG_4706.jpeg,Rephrase the question,What is the texture of the decorations?,What is the texture of the decorations in the image?
+IMG_4706.jpeg,Rephrase the question,What is the overall atmosphere of the mall?,What is the overall atmosphere of the mall in the image?
+IMG_4706.jpeg,Rephrase the question,How crowded is the mall?,How crowded is the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the age range of the people in the mall?,What is the age range of the people in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the gender ratio of the people in the mall?,What is the gender ratio of the people in the mall in the image?
+IMG_4706.jpeg,Rephrase the question,What is the racial makeup of the people in the mall?,What is the racial makeup of the people in the mall in the image?
+IMG_4696.jpeg,Rephrase the question,What is the store's name?,"Do you see any store names in the image? If yes, what is the name of the store?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section we are in?,"Do you see any section names in the image? If yes, what is the name of the section we are in?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section to the left?,"Do you see any section names in the image? If yes, what is the name of the section to the left?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section to the right?,"Do you see any section names in the image? If yes, what is the name of the section to the right?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the front?,"Do you see any section names in the image? If yes, what is the name of the section in the front?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the left side?,"Do you see any section names in the image? If yes, what is the name of the section on the left side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the right side?,"Do you see any section names in the image? If yes, what is the name of the section on the right side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the middle?,"Do you see any section names in the image? If yes, what is the name of the section in the middle?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the front?,"Do you see any section names in the image? If yes, what is the name of the section in the front?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the left side?,"Do you see any section names in the image? If yes, what is the name of the section on the left side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the right side?,"Do you see any section names in the image? If yes, what is the name of the section on the right side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the middle?,"Do you see any section names in the image? If yes, what is the name of the section in the middle?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the front?,"Do you see any section names in the image? If yes, what is the name of the section in the front?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the left side?,"Do you see any section names in the image? If yes, what is the name of the section on the left side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the right side?,"Do you see any section names in the image? If yes, what is the name of the section on the right side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the middle?,"Do you see any section names in the image? If yes, what is the name of the section in the middle?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the front?,"Do you see any section names in the image? If yes, what is the name of the section in the front?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the left side?,"Do you see any section names in the image? If yes, what is the name of the section on the left side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the right side?,"Do you see any section names in the image? If yes, what is the name of the section on the right side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the middle?,"Do you see any section names in the image? If yes, what is the name of the section in the middle?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the front?,"Do you see any section names in the image? If yes, what is the name of the section in the front?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the left side?,"Do you see any section names in the image? If yes, what is the name of the section on the left side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section on the right side?,"Do you see any section names in the image? If yes, what is the name of the section on the right side?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the middle?,"Do you see any section names in the image? If yes, what is the name of the section in the middle?"
+IMG_4696.jpeg,Rephrase the question,What is the name of the section in the back?,"Do you see any section names in the image? If yes, what is the name of the section in the back?"
+IMG_4680.jpeg,Rephrase the question,What is the main color of the building?,Can you identify the dominant color of the building in the image?
+IMG_4680.jpeg,Rephrase the question,What is the color of the sign?,What color is the sign displayed in the image?
+IMG_4680.jpeg,Rephrase the question,What does the sign say?,Can you read the text on the sign in the image?
+IMG_4680.jpeg,Rephrase the question,What is the color of the railing?,What color is the railing visible in the image?
+IMG_4680.jpeg,Rephrase the question,What is the railing made of?,What material is the railing in the image constructed from?
+IMG_4680.jpeg,Rephrase the question,What is the railing for?,What is the purpose of the railing in the image?
+IMG_4680.jpeg,Rephrase the question,What is on the ground next to the railing?,What objects are located on the ground near the railing in the image?
+IMG_4680.jpeg,Rephrase the question,What is the ground cover made of?,What type of material is the ground cover made of in the image?
+IMG_4680.jpeg,Rephrase the question,Are there any plants?,Are there any plants visible in the image?
+IMG_4680.jpeg,Rephrase the question,What kind of plants are there?,Can you identify the species of plants in the image?
+IMG_4680.jpeg,Rephrase the question,What color are the plants?,What color are the plants in the image?
+IMG_4680.jpeg,Rephrase the question,Are there any trees?,Are there any trees visible in the image?
+IMG_4680.jpeg,Rephrase the question,What kind of trees are there?,Can you identify the species of trees in the image?
+IMG_4680.jpeg,Rephrase the question,What is the weather like?,What is the weather condition depicted in the image?
+IMG_4680.jpeg,Rephrase the question,Is it sunny or cloudy?,Is the weather in the image sunny or cloudy?
+IMG_4680.jpeg,Rephrase the question,Is it hot or cold?,Is the weather in the image hot or cold?
+IMG_4680.jpeg,Rephrase the question,Is it windy or calm?,Is the weather in the image windy or calm?
+IMG_4680.jpeg,Rephrase the question,Is it raining or snowing?,Is there any precipitation (rain or snow) visible in the image?
+IMG_4680.jpeg,Rephrase the question,Is there anything else you can see?,Are there any other notable objects or features visible in the image?
+IMG_4680.jpeg,Rephrase the question,What is the overall appearance of the area?,What is the overall aesthetic of the area depicted in the image?
+IMG_4680.jpeg,Rephrase the question,Is it clean or dirty?,Is the area in the image clean or dirty?
+IMG_4680.jpeg,Rephrase the question,Is it well-maintained or neglected?,Is the area in the image well-maintained or neglected?
+IMG_4680.jpeg,Rephrase the question,Is it safe or dangerous?,Is the area in the image safe or dangerous?
+IMG_4680.jpeg,Rephrase the question,Is it inviting or uninviting?,Is the area in the image inviting or uninviting?
+IMG_4680.jpeg,Rephrase the question,Would you like to spend time there?,Would you enjoy spending time in the area depicted in the image?
+IMG_4680.jpeg,Rephrase the question,Why or why not?,What are the reasons for your answer to question 25?
+IMG_4680.jpeg,Rephrase the question,What is the best thing about the area?,What is the most appealing aspect of the area in the image?
+IMG_4680.jpeg,Rephrase the question,What is the worst thing about the area?,What is the least appealing aspect of the area in the image?
+IMG_4680.jpeg,Rephrase the question,What would you change about the area?,What changes could be made to improve the area in the image?
+IMG_4680.jpeg,Rephrase the question,What is your overall impression of the area?,What is your overall assessment of the area depicted in the image?
+IMG_4691.jpeg,Rephrase the question,How many shopping carts are in the image?,"Can you identify any shopping carts in the image? If so, how many are there?"
+IMG_4691.jpeg,Rephrase the question,What color are the shopping carts?,What is the predominant color of the shopping carts in the image?
+IMG_4691.jpeg,Rephrase the question,What is the condition of the shopping carts?,Describe the overall condition of the shopping carts in the image.
+IMG_4691.jpeg,Rephrase the question,What is the surface of the ground like?,What type of surface is the ground in the image?
+IMG_4691.jpeg,Rephrase the question,Are there any cars in the image?,Are there any vehicles visible in the image?
+IMG_4691.jpeg,Rephrase the question,How many cars are in the image?,How many vehicles can you count in the image?
+IMG_4691.jpeg,Rephrase the question,What colors are the cars?,What colors are the vehicles in the image?
+IMG_4691.jpeg,Rephrase the question,What is the make and model of the cars?,Can you identify the make and model of any vehicles in the image?
+IMG_4691.jpeg,Rephrase the question,What is the license plate number of the cars?,Are there any license plates visible on the vehicles in the image?
+IMG_4691.jpeg,Rephrase the question,Are there any people in the image?,Are there any people present in the image?
+IMG_4691.jpeg,Rephrase the question,How many people are in the image?,How many people can you identify in the image?
+IMG_4691.jpeg,Rephrase the question,What are the people doing?,What activities are the people in the image engaged in?
+IMG_4691.jpeg,Rephrase the question,What are the people wearing?,Describe the clothing worn by the people in the image.
+IMG_4691.jpeg,Rephrase the question,Is there anything else in the image?,Are there any other objects or elements present in the image?
+IMG_4691.jpeg,Rephrase the question,What is the weather like in the image?,What is the weather condition depicted in the image?
+IMG_4691.jpeg,Rephrase the question,What time of day is it in the image?,What time of day does the image appear to represent?
+IMG_4691.jpeg,Rephrase the question,What is the location of the image?,Can you determine the location where the image was taken?
+IMG_4691.jpeg,Rephrase the question,Is there anything unusual about the image?,Are there any unusual or noteworthy features in the image?
+IMG_4691.jpeg,Rephrase the question,What is the purpose of the image?,What is the intended purpose of the image?
+IMG_4691.jpeg,Rephrase the question,Who took the image?,Who is the photographer or creator of the image?
+IMG_4691.jpeg,Rephrase the question,When was the image taken?,When was the image captured?
+IMG_4691.jpeg,Rephrase the question,Where was the image taken?,Where was the image taken?
+IMG_4691.jpeg,Rephrase the question,Why was the image taken?,What was the reason for taking the image?
+IMG_4691.jpeg,Rephrase the question,How was the image taken?,What equipment or technique was used to capture the image?
+IMG_4691.jpeg,Rephrase the question,What is the resolution of the image?,What is the resolution of the image in pixels?
+IMG_4691.jpeg,Rephrase the question,What is the size of the image?,What is the file size of the image?
+IMG_4691.jpeg,Rephrase the question,What is the format of the image?,What is the file format of the image?
+IMG_4691.jpeg,Rephrase the question,What is the name of the image file?,What is the name of the image file?
+IMG_4691.jpeg,Rephrase the question,Where is the image stored?,Where is the image currently stored?
+IMG_4691.jpeg,Rephrase the question,Who has access to the image?,Who has access to the image and its contents?
+IMG_4717.jpeg,Rephrase the question,How many sofas are there in the living room?,"Do you see any sofas in the image? If yes, how many sofas are there?"
+IMG_4717.jpeg,Rephrase the question,What color are the sofas?,What color are the sofas in the image?
+IMG_4717.jpeg,Rephrase the question,How many pillows are there on the sofas?,"Do you see any pillows on the sofas in the image? If yes, how many pillows are there?"
+IMG_4717.jpeg,Rephrase the question,What color are the pillows?,What color are the pillows on the sofas in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a rug in the living room?,Do you see a rug in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the rug?,What color is the rug in the image?
+IMG_4717.jpeg,Rephrase the question,Are there any paintings on the walls?,Do you see any paintings on the walls in the image?
+IMG_4717.jpeg,Rephrase the question,How many paintings are there?,How many paintings do you see on the walls in the image?
+IMG_4717.jpeg,Rephrase the question,What are the paintings of?,What are the paintings on the walls in the image of?
+IMG_4717.jpeg,Rephrase the question,Is there a lamp in the living room?,Do you see a lamp in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the lamp?,What color is the lamp in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a vase in the living room?,Do you see a vase in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the vase?,What color is the vase in the image?
+IMG_4717.jpeg,Rephrase the question,Are there any curtains in the living room?,Do you see any curtains in the image?
+IMG_4717.jpeg,Rephrase the question,What color are the curtains?,What color are the curtains in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a television in the living room?,Do you see a television in the image?
+IMG_4717.jpeg,Rephrase the question,What size is the television?,What size is the television in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a fireplace in the living room?,Do you see a fireplace in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the fireplace?,What color is the fireplace in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a coffee table in the living room?,Do you see a coffee table in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the coffee table?,What color is the coffee table in the image?
+IMG_4717.jpeg,Rephrase the question,Is there an end table in the living room?,Do you see an end table in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the end table?,What color is the end table in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a lamp on the end table?,Do you see a lamp on the end table in the image?
+IMG_4717.jpeg,Rephrase the question,What color is the lamp on the end table?,What color is the lamp on the end table in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a plant on the end table?,Do you see a plant on the end table in the image?
+IMG_4717.jpeg,Rephrase the question,What kind of plant is it?,What kind of plant is on the end table in the image?
+IMG_4717.jpeg,Rephrase the question,Is there a window in the living room?,Do you see a window in the image?
+IMG_4717.jpeg,Rephrase the question,What color are the walls?,What color are the walls in the image?
+IMG_4717.jpeg,Rephrase the question,What kind of flooring is there?,What kind of flooring is there in the image?
+IMG_4701.jpeg,Rephrase the question,What is the name of the restaurant?,Do you see any signs that indicate the name of the restaurant?
+IMG_4701.jpeg,Rephrase the question,What type of food is served at the restaurant?,Do you see any signs or menus that indicate the type of food served at the restaurant?
+IMG_4701.jpeg,Rephrase the question,Is there a bakery in the restaurant?,Do you see any signs or displays that suggest the presence of a bakery within the restaurant?
+IMG_4701.jpeg,Rephrase the question,Is there a bar in the restaurant?,Do you see any signs or displays that suggest the presence of a bar within the restaurant?
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Bagel Sandwiches""?","Do you see a sign that reads ""Bagel Sandwiches""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Pick Up Here""?","Do you see a sign that reads ""Pick Up Here""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Mochas""?","Do you see a sign that reads ""Mochas""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Coffee""?","Do you see a sign that reads ""Coffee""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Bar"" ?","Do you see a sign that reads ""Bar""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Bakery""?","Do you see a sign that reads ""Bakery""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Proudly Serving""?","Do you see a sign that reads ""Proudly Serving""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Chomp""?","Do you see a sign that reads ""Chomp""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Open""?","Do you see a sign that reads ""Open""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Closed""?","Do you see a sign that reads ""Closed""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Exit""?","Do you see a sign that reads ""Exit""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Fire Extinguisher""?","Do you see a sign that reads ""Fire Extinguisher""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""Please Wait to be Seated""?","Do you see a sign that reads ""Please Wait to be Seated""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Smoking""?","Do you see a sign that reads ""No Smoking""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Dogs Allowed""?","Do you see a sign that reads ""No Dogs Allowed""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Cell Phones""?","Do you see a sign that reads ""No Cell Phones""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Photography""?","Do you see a sign that reads ""No Photography""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Video Recording""?","Do you see a sign that reads ""No Video Recording""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Weapons""?","Do you see a sign that reads ""No Weapons""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Trespassing""?","Do you see a sign that reads ""No Trespassing""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Loitering""?","Do you see a sign that reads ""No Loitering""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Soliciting""?","Do you see a sign that reads ""No Soliciting""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Panhandling""?","Do you see a sign that reads ""No Panhandling""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Skateboarding""?","Do you see a sign that reads ""No Skateboarding""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Bicycles""?","Do you see a sign that reads ""No Bicycles""?"
+IMG_4701.jpeg,Rephrase the question,"Is there a sign that says ""No Rollerblading""?","Do you see a sign that reads ""No Rollerblading""?"
+IMG_4716.jpeg,Rephrase the question,What is the name of the store?,Can you identify the name of the store in the image?
+IMG_4716.jpeg,Rephrase the question,What is the name of the product on the left side of the image?,Can you identify the name of the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the name of the product on the right side of the image?,Can you identify the name of the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the price of the product on the left side of the image?,Can you provide the price of the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the price of the product on the right side of the image?,Can you provide the price of the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,What are the ingredients of the product on the left side of the image?,Can you list the ingredients of the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What are the ingredients of the product on the right side of the image?,Can you list the ingredients of the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the nutritional information of the product on the left side of the image?,Can you provide the nutritional information for the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the nutritional information of the product on the right side of the image?,Can you provide the nutritional information for the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,What are the allergens in the product on the left side of the image?,Can you identify any allergens present in the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What are the allergens in the product on the right side of the image?,Can you identify any allergens present in the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,Is the product on the left side of the image gluten-free?,Is the product displayed on the left side of the image gluten-free?
+IMG_4716.jpeg,Rephrase the question,Is the product on the right side of the image gluten-free?,Is the product displayed on the right side of the image gluten-free?
+IMG_4716.jpeg,Rephrase the question,Is the product on the left side of the image vegan?,Is the product displayed on the left side of the image vegan?
+IMG_4716.jpeg,Rephrase the question,Is the product on the right side of the image vegan?,Is the product displayed on the right side of the image vegan?
+IMG_4716.jpeg,Rephrase the question,Is the product on the left side of the image kosher?,Is the product displayed on the left side of the image kosher?
+IMG_4716.jpeg,Rephrase the question,Is the product on the right side of the image kosher?,Is the product displayed on the right side of the image kosher?
+IMG_4716.jpeg,Rephrase the question,What is the name of the company that makes the product on the left side of the image?,Can you identify the name of the company that manufactures the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,What is the name of the company that makes the product on the right side of the image?,Can you identify the name of the company that manufactures the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,Where is the product on the left side of the image made?,Can you provide the location where the product displayed on the left side of the image is manufactured?
+IMG_4716.jpeg,Rephrase the question,Where is the product on the right side of the image made?,Can you provide the location where the product displayed on the right side of the image is manufactured?
+IMG_4716.jpeg,Rephrase the question,When was the product on the left side of the image first introduced?,Can you provide the date when the product displayed on the left side of the image was first introduced?
+IMG_4716.jpeg,Rephrase the question,When was the product on the right side of the image first introduced?,Can you provide the date when the product displayed on the right side of the image was first introduced?
+IMG_4716.jpeg,Rephrase the question,How is the product on the left side of the image made?,Can you describe the process involved in manufacturing the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the right side of the image made?,Can you describe the process involved in manufacturing the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the left side of the image packaged?,Can you describe the packaging used for the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the right side of the image packaged?,Can you describe the packaging used for the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the left side of the image stored?,Can you provide the recommended storage conditions for the product displayed on the left side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the right side of the image stored?,Can you provide the recommended storage conditions for the product displayed on the right side of the image?
+IMG_4716.jpeg,Rephrase the question,How is the product on the left side of the image served?,Can you provide instructions on how the product displayed on the left side of the image should be served?
+IMG_4716.jpeg,Rephrase the question,How is the product on the right side of the image served?,Can you provide instructions on how the product displayed on the right side of the image should be served?
+IMG_4720.jpeg,Rephrase the question,What is the color of the cabinets?,Can you identify the color of the cabinets in the image?
+IMG_4720.jpeg,Rephrase the question,What is the color of the countertops?,What color are the countertops in the image?
+IMG_4720.jpeg,Rephrase the question,What is the color of the floor?,Can you tell me the color of the floor in the image?
+IMG_4720.jpeg,Rephrase the question,What is the color of the walls?,What color are the walls in the image?
+IMG_4720.jpeg,Rephrase the question,What kind of appliances are there?,"Are there any appliances visible in the image? If so, what type of appliances are they?"
+IMG_4720.jpeg,Rephrase the question,Is there a sink?,Is there a sink visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a garbage can?,Is there a garbage can visible in the image?
+IMG_4720.jpeg,Rephrase the question,What is on the counters?,What items are placed on the counters in the image?
+IMG_4720.jpeg,Rephrase the question,What is on the refrigerator?,What items are placed on the refrigerator in the image?
+IMG_4720.jpeg,Rephrase the question,What is on the floor?,What items are placed on the floor in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a window?,Is there a window visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a door?,Is there a door visible in the image?
+IMG_4720.jpeg,Rephrase the question,What kind of lighting is there?,What type of lighting is used in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a microwave?,Is there a microwave visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a stove?,Is there a stove visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there an oven?,Is there an oven visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a dishwasher?,Is there a dishwasher visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a garbage disposal?,Is there a garbage disposal visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a pantry?,Is there a pantry visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there a breakfast bar?,Is there a breakfast bar visible in the image?
+IMG_4720.jpeg,Rephrase the question,Is there an island?,Is there an island visible in the image?
+IMG_4720.jpeg,Rephrase the question,What is the shape of the kitchen?,What is the shape of the kitchen in the image?
+IMG_4720.jpeg,Rephrase the question,How big is the kitchen?,How large is the kitchen in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen open to the living room?,Is the kitchen open to the living room in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen open to the dining room?,Is the kitchen open to the dining room in the image?
+IMG_4720.jpeg,Rephrase the question,What is the style of the kitchen?,What style is the kitchen in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen modern?,Is the kitchen modern in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen traditional?,Is the kitchen traditional in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen rustic?,Is the kitchen rustic in the image?
+IMG_4720.jpeg,Rephrase the question,Is the kitchen contemporary?,Is the kitchen contemporary in the image?
+IMG_4685.jpeg,Rephrase the question,What is the surface of the ground?,"Do you see any ground in the image? If yes, what is the surface of the ground?"
+IMG_4685.jpeg,Rephrase the question,What color is the sky?,"Do you see the sky in the image? If yes, what color is the sky?"
+IMG_4685.jpeg,Rephrase the question,What is the weather like?,"Do you see any weather conditions in the image? If yes, what is the weather like?"
+IMG_4685.jpeg,Rephrase the question,Are there any cars in the parking lot?,"Do you see any cars in the image? If yes, how many cars are there?"
+IMG_4685.jpeg,Rephrase the question,How many orange cones are there?,"Do you see any orange cones in the image? If yes, how many orange cones are there?"
+IMG_4685.jpeg,Rephrase the question,What is the purpose of the orange cones?,"Do you see any orange cones in the image? If yes, what is the purpose of the orange cones?"
+IMG_4685.jpeg,Rephrase the question,Is there a fire hydrant in the parking lot?,"Do you see a fire hydrant in the image? If yes, is there a fire hydrant in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What is the condition of the parking lot?,"Do you see the parking lot in the image? If yes, what is the condition of the parking lot?"
+IMG_4685.jpeg,Rephrase the question,Are there any trees in the parking lot?,"Do you see any trees in the image? If yes, are there any trees in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,How many trees are in the parking lot?,"Do you see any trees in the image? If yes, how many trees are in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What kind of trees are in the parking lot?,"Do you see any trees in the image? If yes, what kind of trees are in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,Are there any other buildings in the parking lot?,"Do you see any buildings in the image? If yes, are there any other buildings in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What is the color of the building?,"Do you see any buildings in the image? If yes, what is the color of the building?"
+IMG_4685.jpeg,Rephrase the question,What is the building made of?,"Do you see any buildings in the image? If yes, what is the building made of?"
+IMG_4685.jpeg,Rephrase the question,How many windows are in the building?,"Do you see any buildings in the image? If yes, how many windows are in the building?"
+IMG_4685.jpeg,Rephrase the question,What is the shape of the windows?,"Do you see any buildings in the image? If yes, what is the shape of the windows?"
+IMG_4685.jpeg,Rephrase the question,Is there a door in the building?,"Do you see any buildings in the image? If yes, is there a door in the building?"
+IMG_4685.jpeg,Rephrase the question,What is the color of the door?,"Do you see any buildings in the image? If yes, what is the color of the door?"
+IMG_4685.jpeg,Rephrase the question,Is there a sign on the building?,"Do you see any buildings in the image? If yes, is there a sign on the building?"
+IMG_4685.jpeg,Rephrase the question,What does the sign say?,"Do you see any buildings in the image? If yes, what does the sign say?"
+IMG_4685.jpeg,Rephrase the question,Is there a sidewalk in front of the building?,"Do you see any buildings in the image? If yes, is there a sidewalk in front of the building?"
+IMG_4685.jpeg,Rephrase the question,What is the condition of the sidewalk?,"Do you see any buildings in the image? If yes, what is the condition of the sidewalk?"
+IMG_4685.jpeg,Rephrase the question,Are there any other people in the parking lot?,"Do you see any people in the image? If yes, are there any other people in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What are the people doing?,"Do you see any people in the image? If yes, what are the people doing?"
+IMG_4685.jpeg,Rephrase the question,Are there any animals in the parking lot?,"Do you see any animals in the image? If yes, are there any animals in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What kind of animals are in the parking lot?,"Do you see any animals in the image? If yes, what kind of animals are in the parking lot?"
+IMG_4685.jpeg,Rephrase the question,What is the overall appearance of the parking lot?,"Do you see the parking lot in the image? If yes, what is the overall appearance of the parking lot?"
+IMG_4685.jpeg,Rephrase the question,Is the parking lot well-lit?,"Do you see the parking lot in the image? If yes, is the parking lot well-lit?"
+IMG_4685.jpeg,Rephrase the question,Is the parking lot safe?,"Do you see the parking lot in the image? If yes, is the parking lot safe?"
+IMG_4685.jpeg,Rephrase the question,Would you recommend this parking lot to others?,"Do you see the parking lot in the image? If yes, would you recommend this parking lot to others?"
+IMG_4722.jpeg,Rephrase the question,What type of appliance is this?,"Do you see an appliance in the image? If yes, what type of appliance is it?"
+IMG_4722.jpeg,Rephrase the question,What brand is it?,"Do you see any branding on the appliance in the image? If yes, what brand is it?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the appliance?,What is the primary color of the appliance in the image?
+IMG_4722.jpeg,Rephrase the question,What type of knobs does it have?,"Do you see any knobs on the appliance in the image? If yes, what type of knobs are they?"
+IMG_4722.jpeg,Rephrase the question,How many knobs are there?,"Do you see any knobs on the appliance in the image? If yes, how many knobs are there?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the knobs?,"Do you see any knobs on the appliance in the image? If yes, what is the approximate size of the knobs?"
+IMG_4722.jpeg,Rephrase the question,What is the shape of the knobs?,"Do you see any knobs on the appliance in the image? If yes, what is the shape of the knobs?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the knobs?,"Do you see any knobs on the appliance in the image? If yes, what is the color of the knobs?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the knobs?,"Do you see any knobs on the appliance in the image? If yes, what is the material of the knobs?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the cooktop?,"Do you see a cooktop in the image? If yes, what is the approximate size of the cooktop?"
+IMG_4722.jpeg,Rephrase the question,What type of cooktop is it?,"Do you see a cooktop in the image? If yes, what type of cooktop is it?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the cooktop?,"Do you see a cooktop in the image? If yes, what is the color of the cooktop?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the cooktop?,"Do you see a cooktop in the image? If yes, what is the material of the cooktop?"
+IMG_4722.jpeg,Rephrase the question,How many burners does the cooktop have?,"Do you see a cooktop in the image? If yes, how many burners does the cooktop have?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the burners?,"Do you see any burners on the cooktop in the image? If yes, what is the approximate size of the burners?"
+IMG_4722.jpeg,Rephrase the question,What is the shape of the burners?,"Do you see any burners on the cooktop in the image? If yes, what is the shape of the burners?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the burners?,"Do you see any burners on the cooktop in the image? If yes, what is the color of the burners?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the burners?,"Do you see any burners on the cooktop in the image? If yes, what is the material of the burners?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the oven?,"Do you see an oven in the image? If yes, what is the approximate size of the oven?"
+IMG_4722.jpeg,Rephrase the question,What type of oven is it?,"Do you see an oven in the image? If yes, what type of oven is it?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the oven?,"Do you see an oven in the image? If yes, what is the color of the oven?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the oven?,"Do you see an oven in the image? If yes, what is the material of the oven?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the door?,"Do you see a door on the oven in the image? If yes, what is the approximate size of the door?"
+IMG_4722.jpeg,Rephrase the question,What is the shape of the door?,"Do you see a door on the oven in the image? If yes, what is the shape of the door?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the door?,"Do you see a door on the oven in the image? If yes, what is the color of the door?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the door?,"Do you see a door on the oven in the image? If yes, what is the material of the door?"
+IMG_4722.jpeg,Rephrase the question,What is the size of the control panel?,"Do you see a control panel on the appliance in the image? If yes, what is the approximate size of the control panel?"
+IMG_4722.jpeg,Rephrase the question,What is the shape of the control panel?,"Do you see a control panel on the appliance in the image? If yes, what is the shape of the control panel?"
+IMG_4722.jpeg,Rephrase the question,What is the color of the control panel?,"Do you see a control panel on the appliance in the image? If yes, what is the color of the control panel?"
+IMG_4722.jpeg,Rephrase the question,What is the material of the control panel?,"Do you see a control panel on the appliance in the image? If yes, what is the material of the control panel?"
+IMG_4724.jpeg ,Rephrase the question,What brand is the washing machine?,"Do you see any branding on the washing machine? If yes, what brand is it?"
+IMG_4724.jpeg ,Rephrase the question,What model is the washing machine?,"Do you see any model number on the washing machine? If yes, what is the model number?"
+IMG_4724.jpeg ,Rephrase the question,What color is the washing machine?,What is the predominant color of the washing machine?
+IMG_4724.jpeg ,Rephrase the question,What type of washing machine is it?,"Can you identify the type of washing machine (e.g., top-load, front-load, etc.)?"
+IMG_4724.jpeg ,Rephrase the question,What is the capacity of the washing machine?,"Do you see any indication of the capacity of the washing machine? If yes, what is the capacity?"
+IMG_4724.jpeg ,Rephrase the question,What are the dimensions of the washing machine?,Can you measure the dimensions of the washing machine from the image?
+IMG_4724.jpeg ,Rephrase the question,What is the weight of the washing machine?,Can you estimate the weight of the washing machine based on its appearance?
+IMG_4724.jpeg ,Rephrase the question,What is the energy efficiency of the washing machine?,"Do you see any energy efficiency label on the washing machine? If yes, what is the energy efficiency rating?"
+IMG_4724.jpeg ,Rephrase the question,What is the water efficiency of the washing machine?,"Do you see any water efficiency label on the washing machine? If yes, what is the water efficiency rating?"
+IMG_4724.jpeg ,Rephrase the question,What is the spin speed of the washing machine?,"Do you see any indication of the spin speed of the washing machine? If yes, what is the spin speed?"
+IMG_4724.jpeg ,Rephrase the question,What is the noise level of the washing machine?,"Do you see any indication of the noise level of the washing machine? If yes, what is the noise level?"
+IMG_4724.jpeg ,Rephrase the question,What are the features of the washing machine?,Can you identify any specific features of the washing machine from the image?
+IMG_4724.jpeg ,Rephrase the question,What is the warranty on the washing machine?,"Do you see any warranty information on the washing machine? If yes, what is the warranty period?"
+IMG_4724.jpeg ,Rephrase the question,What is the price of the washing machine?,Do you see any price tag or indication of the price of the washing machine?
+IMG_4724.jpeg ,Rephrase the question,Where can I buy the washing machine?,Do you see any contact information or website address where the washing machine can be purchased?
+IMG_4724.jpeg ,Rephrase the question,What is the best way to use the washing machine?,Do you see any instructions or diagrams on the washing machine that indicate how to use it?
+IMG_4724.jpeg ,Rephrase the question,How do I troubleshoot the washing machine?,Do you see any troubleshooting guide or error codes on the washing machine?
+IMG_4724.jpeg ,Rephrase the question,How do I clean the washing machine?,Do you see any cleaning instructions or maintenance tips on the washing machine?
+IMG_4724.jpeg ,Rephrase the question,What are the safety precautions for the washing machine?,Do you see any safety precautions or warnings on the washing machine?
+IMG_4724.jpeg ,Rephrase the question,What are the pros and cons of the washing machine?,Can you identify any potential pros or cons of the washing machine based on its appearance?
+IMG_4724.jpeg ,Rephrase the question,What are the reviews of the washing machine?,Do you see any customer reviews or ratings for the washing machine?
+IMG_4724.jpeg ,Rephrase the question,What is the overall rating of the washing machine?,Do you see any overall rating or score for the washing machine?
+IMG_4724.jpeg ,Rephrase the question,Is the washing machine worth buying?,"Based on the image, would you recommend purchasing the washing machine?"
+IMG_4724.jpeg ,Rephrase the question,What are the alternatives to the washing machine?,Can you identify any alternative washing machines that may be similar to the one in the image?
+IMG_4724.jpeg ,Rephrase the question,What is the best way to dispose of the washing machine?,Do you see any information on how to properly dispose of the washing machine?
+IMG_4724.jpeg ,Rephrase the question,What is the history of the washing machine?,Do you see any historical information or references to the washing machine in the image?
+IMG_4724.jpeg ,Rephrase the question,What are the latest trends in washing machines?,Can you identify any emerging trends or innovations in washing machines based on the image?
+IMG_4724.jpeg ,Rephrase the question,What is the future of the washing machine?,Do you see any predictions or speculations about the future of washing machines?
+IMG_4724.jpeg ,Rephrase the question,What are some interesting facts about the washing machine? ,Do you see any unique or surprising facts about washing machines in the image?
+IMG_4710.jpeg,Rephrase the question,How many people are there in the image?,"Can you identify any people in the image? If yes, how many people are there?"
+IMG_4710.jpeg,Rephrase the question,What are the people doing?,Can you describe the activities or actions of the people in the image?
+IMG_4710.jpeg,Rephrase the question,Where are the people?,Can you identify the location or setting where the people are situated in the image?
+IMG_4710.jpeg,Rephrase the question,What is the name of the restaurant on the left?,"Is there a restaurant visible on the left side of the image? If yes, can you read the name of the restaurant?"
+IMG_4710.jpeg,Rephrase the question,What is the name of the restaurant on the right?,"Is there a restaurant visible on the right side of the image? If yes, can you read the name of the restaurant?"
+IMG_4710.jpeg,Rephrase the question,What is the color of the floor?,Can you identify the color of the flooring in the image?
+IMG_4710.jpeg,Rephrase the question,What is the color of the ceiling?,Can you identify the color of the ceiling in the image?
+IMG_4710.jpeg,Rephrase the question,What is the material of the floor?,Can you identify the material used for the flooring in the image?
+IMG_4710.jpeg,Rephrase the question,What is the material of the ceiling?,Can you identify the material used for the ceiling in the image?
+IMG_4710.jpeg,Rephrase the question,What is the shape of the tables?,Can you describe the shape of the tables visible in the image?
+IMG_4710.jpeg,Rephrase the question,What is the material of the tables?,Can you identify the material used for the tables in the image?
+IMG_4710.jpeg,Rephrase the question,What is the shape of the chairs?,Can you describe the shape of the chairs visible in the image?
+IMG_4710.jpeg,Rephrase the question,What is the material of the chairs?,Can you identify the material used for the chairs in the image?
+IMG_4710.jpeg,Rephrase the question,What is the color of the chairs?,Can you identify the color of the chairs visible in the image?
+IMG_4710.jpeg,Rephrase the question,What is the color of the tables?,Can you identify the color of the tables visible in the image?
+IMG_4710.jpeg,Rephrase the question,How many chairs are there?,Can you count the number of chairs visible in the image?
+IMG_4710.jpeg,Rephrase the question,How many tables are there?,Can you count the number of tables visible in the image?
+IMG_4710.jpeg,Rephrase the question,What is the name of the sign on the right?,"Is there a sign visible on the right side of the image? If yes, can you read the name on the sign?"
+IMG_4710.jpeg,Rephrase the question,What is the text on the sign on the right?,"Is there a sign visible on the right side of the image? If yes, can you read the text on the sign?"
+IMG_4710.jpeg,Rephrase the question,What is the phone number on the sign on the right?,"Is there a sign visible on the right side of the image? If yes, can you read the phone number on the sign?"
+IMG_4710.jpeg,Rephrase the question,What is the name of the mall?,"Is there a mall visible in the image? If yes, can you read the name of the mall?"
+IMG_4710.jpeg,Rephrase the question,Where is the mall located?,"Is there a mall visible in the image? If yes, can you identify the location of the mall?"
+IMG_4710.jpeg,Rephrase the question,What are the hours of operation of the mall?,"Is there a mall visible in the image? If yes, can you find the hours of operation for the mall?"
+IMG_4710.jpeg,Rephrase the question,What is the name of the city where the mall is located?,"Is there a mall visible in the image? If yes, can you identify the city where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What is the name of the state where the mall is located?,"Is there a mall visible in the image? If yes, can you identify the state where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What is the name of the country where the mall is located?,"Is there a mall visible in the image? If yes, can you identify the country where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What is the climate like in the city where the mall is located?,"Is there a mall visible in the image? If yes, can you describe the climate of the city where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What is the population of the city where the mall is located?,"Is there a mall visible in the image? If yes, can you find the population of the city where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What is the economy of the city where the mall is located?,"Is there a mall visible in the image? If yes, can you describe the economy of the city where the mall is located?"
+IMG_4710.jpeg,Rephrase the question,What are the major industries in the city where the mall is located?,"Is there a mall visible in the image? If yes, can you identify the major industries in the city where the mall is located?"
+IMG_4721.jpeg,Rephrase the question,What brand is the microwave?,Can you identify the brand of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the size of the microwave?,What is the approximate size of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What color is the microwave?,What color is the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What type of door does the microwave have?,"What type of door does the microwave in the image have? (e.g., swing, pull-down, etc.)"
+IMG_4721.jpeg,Rephrase the question,What is the control panel like?,Can you describe the control panel of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the features of the microwave?,What features can you identify on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the wattage of the microwave?,Can you find the wattage of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the capacity of the microwave?,What is the approximate capacity of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the dimensions of the microwave?,Can you provide the dimensions of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the weight of the microwave?,Can you estimate the weight of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the warranty on the microwave?,Is there any warranty information visible on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the price of the microwave?,Can you find the price of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,Where can I buy the microwave?,Is there any information on where to purchase the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,How do I use the microwave?,Are there any instructions or diagrams on how to use the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,How do I clean the microwave?,Are there any cleaning instructions visible on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,How do I troubleshoot the microwave?,Are there any troubleshooting tips or instructions on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the safety features of the microwave?,Can you identify any safety features on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the pros and cons of the microwave?,Are there any visible pros or cons listed for the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the reviews of the microwave?,Are there any reviews or ratings visible for the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the energy efficiency of the microwave?,Is there any information on the energy efficiency of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the noise level of the microwave?,Can you estimate the noise level of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the lifespan of the microwave?,Is there any information on the expected lifespan of the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What is the best way to dispose of the microwave?,Are there any disposal instructions or recommendations visible on the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,What are the alternatives to the microwave?,Are there any alternative appliances or methods mentioned in the image that could replace a microwave?
+IMG_4721.jpeg,Rephrase the question,What is the history of the microwave?,Is there any historical information or context about the microwave in the image?
+IMG_4721.jpeg,Rephrase the question,Who invented the microwave?,Is the inventor of the microwave mentioned in the image?
+IMG_4721.jpeg,Rephrase the question,When was the microwave invented?,Is the invention date of the microwave visible in the image?
+IMG_4721.jpeg,Rephrase the question,Where was the microwave invented?,Is the location where the microwave was invented mentioned in the image?
+IMG_4721.jpeg,Rephrase the question,How has the microwave changed over time?,Are there any visible indications of how the microwave has evolved over time in the image?
+IMG_4721.jpeg,Rephrase the question,What is the future of the microwave? ,Are there any predictions or insights about the future of microwave technology in the image?
+IMG_4695.jpeg,Rephrase the question,How many different types of drinks are in the image?,"Do you see any different types of drinks in the image? If yes, how many different types of drinks are there?"
+IMG_4695.jpeg,Rephrase the question,What is the most common type of drink in the image?,Which type of drink appears most frequently in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of drink in the image?,Which type of drink appears least frequently in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most popular brand of drink in the image?,Which brand of drink is most prominently displayed in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least popular brand of drink in the image?,Which brand of drink is least prominently displayed in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most expensive drink in the image?,Which drink in the image is likely to be the most expensive?
+IMG_4695.jpeg,Rephrase the question,What is the least expensive drink in the image?,Which drink in the image is likely to be the least expensive?
+IMG_4695.jpeg,Rephrase the question,What is the most common size of drink in the image?,What is the most common size of drink container in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common size of drink in the image?,What is the least common size of drink container in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most popular flavor of drink in the image?,Which flavor of drink is most prominently featured in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least popular flavor of drink in the image?,Which flavor of drink is least prominently featured in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of packaging for drinks in the image?,What type of packaging is most commonly used for drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of packaging for drinks in the image?,What type of packaging is least commonly used for drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common color of drink in the image?,What is the most common color of drink in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common color of drink in the image?,What is the least common color of drink in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of label on drinks in the image?,What type of label material is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of label on drinks in the image?,What type of label material is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common language on the labels of drinks in the image?,What language is most commonly used on drink labels in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common language on the labels of drinks in the image?,What language is least commonly used on drink labels in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of closure on drinks in the image?,What type of closure is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of closure on drinks in the image?,What type of closure is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of logo on drinks in the image?,What type of logo design is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of logo on drinks in the image?,What type of logo design is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of slogan on drinks in the image?,What type of slogan is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of slogan on drinks in the image?,What type of slogan is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of image on drinks in the image?,What type of image is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of image on drinks in the image?,What type of image is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of background on drinks in the image?,What type of background color is most commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the least common type of background on drinks in the image?,What type of background color is least commonly used on drinks in the image?
+IMG_4695.jpeg,Rephrase the question,What is the most common type of font on drinks in the image?,What type of font is most commonly used on drinks in the image?

@@ -1,0 +1,26 @@
+python -m venv sbs  --system-site-packages
+
+sudo apt-get install libasound-dev
+sudo apt-get install portaudio19-dev
+pip install pyaudio --user
+sudo apt-get install python3-pyaudio
+
+sudo apt install -y python3-picamera2
+sudo apt install python3-v4l2
+
+pip3 install git+https://github.com/aspotton/python3-v4l2.git
+
+DISPLAY=:0 name-of-application
+sudo apt-get install mpg321
+
+curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-466.0.0-linux-x86_64.tar.gz
+tar -xf google-cloud-cli-466.0.0-linux-x86_64.tar.gz
+./google-cloud-sdk/install.sh
+
+
+gcloud auth application-default login
+
+sudo apt-get install flac
+sudo apt-get install gstreamer-1.0
+
+@reboot su anas -c "/home/anas/Documents/sight-beyond-seeing/sbs.sh"

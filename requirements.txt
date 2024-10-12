@@ -1,0 +1,14 @@
+requests
+langchain-google-genai
+langchain
+langchain-community
+langchainhub
+numpy
+SpeechRecognition
+pvporcupine
+pvrecorder
+playsound
+python-dotenv
+pygobject
+v4l2
+gTTS

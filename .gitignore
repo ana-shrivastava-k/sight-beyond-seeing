@@ -1,0 +1,5 @@
+.DS_Store
+Images
+trained_tinyllama
+trained_tinyllama_merged
+.env
