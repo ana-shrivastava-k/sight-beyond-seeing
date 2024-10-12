@@ -76,11 +76,11 @@ def train(run_config):
     import wandb
 
     logging.set_verbosity_info()
-    project_name = "tiny-llama-2024-2" 
+    project_name = "tiny-llama-rephrase" 
     entity = "wandb"
     # os.environ["WANDB_LOG_MODEL"] = "checkpoint"
 
-    wandb.init(project=project_name, name = "tiny-llama-sf2024-rephrase-" + str(run))
+    wandb.init(project=project_name, name = "tiny-llama-rephrase-" + str(run))
 
     args = TrainingArguments(
             per_device_train_batch_size = run_config["batch_size"],
