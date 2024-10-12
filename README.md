@@ -1,5 +1,8 @@
 # Sight beyond Seeing
 
+Author - Ana Shrivastava
+&copy; Ana Shrivastava 2024
+
 This application is an advanced assistive tool designed to support visually impaired individuals by leveraging state-of-the-art AI technology. Specifically, it uses multi-modal large language models (LLMs) that integrate visual and linguistic data to interpret and communicate complex visual context through spoken language. The app captures images from a user's surroundings and processes the visuals using multimodal LLMS to deliver detailed, near-real-time feedback in audio form. This app enables users to better understand their immediate environment by providing a practical and intuitive way to navigate daily life independently.
 
 ### Projects Structure
@@ -12,3 +15,7 @@ This application is an advanced assistive tool designed to support visually impa
     ├── README.md
     ├── requirements.txt        # Tools and utilities
     └── sight_beyond_seeing.py  # Main application
+    
+### Solution Diagram
+
+![Solution Diagram](diagrams_and_images/Soluton%20Diagram.jpeg?raw=true "Solution Diagram")
